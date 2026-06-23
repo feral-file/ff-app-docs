@@ -4,8 +4,8 @@ Documentation and **remote configuration** for the Feral File mobile app (`ff-ap
 
 ## What ships here
 
-| Path | Purpose |
-|------|--------|
+| Path                  | Purpose                                                                                                                                                                            |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `configs/ff-app.json` | Remote config consumed by the app at runtime (feed operators, feature flags, and related settings). The client loads this file as **`ff-app.json`** from the deployed static host. |
 
 On each deploy, CI also writes `configs/version.json` with the Git commit and deployment environment so you can tell which revision is live.
@@ -21,11 +21,11 @@ GitHub Actions deploys the **`configs/`** directory to **Cloudflare Pages** when
 
 Configure these in the GitHub repo (Settings → Secrets and variables → Actions):
 
-| Name | Type | Description |
-|------|------|--------------|
-| `CLOUDFLARE_API_TOKEN` | Secret | Token with permission to deploy to Cloudflare Pages. |
-| `CLOUDFLARE_ACCOUNT_ID` | Variable | Cloudflare account ID. |
-| `CLOUDFLARE_PROJECT_NAME` | Variable | Pages project name that serves the remote configs. |
+| Name                      | Type     | Description                                          |
+| ------------------------- | -------- | ---------------------------------------------------- |
+| `CLOUDFLARE_API_TOKEN`    | Secret   | Token with permission to deploy to Cloudflare Pages. |
+| `CLOUDFLARE_ACCOUNT_ID`   | Variable | Cloudflare account ID.                               |
+| `CLOUDFLARE_PROJECT_NAME` | Variable | Pages project name that serves the remote configs.   |
 
 The workflow is defined in `.github/workflows/cloudflare-pages-deploy.yml`.
 
