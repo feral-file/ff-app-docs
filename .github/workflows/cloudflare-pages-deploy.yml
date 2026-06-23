@@ -21,9 +21,6 @@ jobs:
     runs-on: ubuntu-latest
     name: Deploy
     environment: ${{ github.event.inputs.environment || (github.ref == 'refs/heads/main' && 'Production' || 'Development') }}
-    env:
-      # Surfaces detailed Wrangler errors in the Actions log (token values are never printed).
-      WRANGLER_LOG: debug
     steps:
       - name: Checkout configs folder
         uses: actions/checkout@v4
@@ -36,23 +33,9 @@ jobs:
         run: |
           echo "{\"commit\": \"${{ github.sha }}\", \"environment\": \"${{ github.event.inputs.environment || (github.ref == 'refs/heads/main' && 'Production' || 'Development') }}\"}" > configs/version.json
 
-      # Fail fast with a clear message. GitHub Environment variables override repository
-      # Variables when the job uses `environment:` — an empty env var hides the repo value.
-      - name: Verify Cloudflare variables are non-empty
-        run: |
-          if [ -z "${{ vars.CLOUDFLARE_ACCOUNT_ID }}" ]; then
-            echo "::error::CLOUDFLARE_ACCOUNT_ID is empty. Set it under Settings → Secrets and variables → Actions → Variables, or under the same names on the GitHub Environment used by this job (Production / Development). Empty Environment variables override repository variables."
-            exit 1
-          fi
-          if [ -z "${{ vars.CLOUDFLARE_PROJECT_NAME }}" ]; then
-            echo "::error::CLOUDFLARE_PROJECT_NAME is empty. Same as above."
-            exit 1
-          fi
-
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
-          # Quote project name for shells; must match the Pages project slug in Cloudflare.
-          command: pages deploy configs --project-name="${{ vars.CLOUDFLARE_PROJECT_NAME }}"
+          command: pages deploy configs --project-name=${{ vars.CLOUDFLARE_PROJECT_NAME }}
