@@ -11,5 +11,10 @@
   },
   "daily": {
     "channel_url": "http://192.168.31.73:8787/api/v1/channels/dabfe41c-4a75-4e49-873e-2705f4b02e0d"
+  },
+  "features": {
+    "browser_pairing": {
+      "min_ffos_version": "1.0.19"
+    }
   }
 }
