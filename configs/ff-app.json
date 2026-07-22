@@ -10,7 +10,7 @@
     }
   },
   "daily": {
-    "channel_url": "http://192.168.31.73:8787/api/v1/channels/dabfe41c-4a75-4e49-873e-2705f4b02e0d"
+    "playlist_url": "http://localhost:8787/api/v1/playlists/89e57db1-0b4d-4895-b1ec-de15a7b15b8d"
   },
   "features": {
     "browser_pairing": {
