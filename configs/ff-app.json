@@ -10,7 +10,7 @@
     }
   },
   "daily": {
-    "playlist_url": "http://localhost:8787/api/v1/playlists/89e57db1-0b4d-4895-b1ec-de15a7b15b8d"
+    "playlist_url": "http://192.168.31.73:8787/api/v1/playlists/68fca613-e0e6-4f4b-a3dd-8e8581bb8a51"
   },
   "features": {
     "browser_pairing": {
