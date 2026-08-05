@@ -10,7 +10,7 @@
     }
   },
   "daily": {
-    "playlist_url": "http://192.168.31.73:8787/api/v1/playlists/68fca613-e0e6-4f4b-a3dd-8e8581bb8a51"
+    "playlist_url": "https://feed.feralfile.com/api/v1/playlists/feral-file-daily-f77fe04c"
   },
   "features": {
     "browser_pairing": {
