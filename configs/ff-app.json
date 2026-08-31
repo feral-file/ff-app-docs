@@ -8,5 +8,8 @@
       "required_version": "1.1.7",
       "link": "https://play.google.com/store/apps/details?id=com.feralfile.app"
     }
+  },
+  "logging": {
+    "sample_rate": 1
   }
 }
