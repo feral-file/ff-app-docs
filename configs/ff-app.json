@@ -16,5 +16,8 @@
     "browser_pairing": {
       "min_ffos_version": "1.0.19"
     }
+  },
+  "logging": {
+    "sample_rate": 1
   }
 }
