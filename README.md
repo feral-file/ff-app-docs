@@ -39,3 +39,11 @@ Changes merged to the deployment branch you use for production (`main` by conven
 - After deploy, confirm the Pages URL serves `ff-app.json` and optional `version.json` as expected.
 
 For broader Feral File documentation (agreements, web, TV, learning content), continue using the shared docs repository under Bitmark Inc. where those assets are still maintained.
+
+## Temporary Daily recovery — September 10, 2026
+
+`configs/ff-app.json` temporarily points Daily at `daily-recovery-2026-09-10.json`. This separately signed recovery copy omits only **Each and Every Command AP** (`ff4ea942-d73d-4355-b370-a6cb9966d183`, scheduled September 10). Its 30.75 MB text preview exhausts Android WebView memory in app 1.8.0. All 76 other entries, artwork metadata, and scheduled dates are preserved: September 10 falls back to **Predictive Art Bot AP**, and September 11 selects **Minos AP** normally.
+
+The original signed playlist is unchanged. The recovery copy has a new identity and is signed by the available operator key; it does not claim the original curator's signature. It is a static snapshot, so subsequent edits to the original feed will not reach Daily while this URL is configured.
+
+After September 10 has ended for app users, or a safe renderer ships, restore `daily.playlist_url` to `https://feed.feralfile.com/api/v1/playlists/feral-file-daily-f77fe04c` and deploy. Keep the recovery JSON available for clients that still have the temporary URL cached. Restoring the config is a separate deployment; it is not scheduled automatically. Clients refresh remote config on cold launch or a Daily refresh.
