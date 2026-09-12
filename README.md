@@ -8,7 +8,10 @@ Documentation and **remote configuration** for the Feral File mobile app (`ff-ap
 |------|--------|
 | `configs/ff-app.json` | Remote config consumed by the app at runtime (feed operators, feature flags, and related settings). The client loads this file as **`ff-app.json`** from the deployed static host. |
 
-On each deploy, CI also writes `configs/version.json` with the Git commit and deployment environment so you can tell which revision is live.
+Before each deploy, CI parses every JSON config and verifies every signed DP-1
+playlist with the pinned `@feralfile/cli` release. It then writes
+`configs/version.json` with the Git commit and deployment environment so you can
+tell which revision is live.
 
 ## Deployment
 

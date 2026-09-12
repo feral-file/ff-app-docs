@@ -5,6 +5,13 @@ on:
     branches:
       - main
       - dev
+  pull_request:
+    branches:
+      - main
+      - dev
+    paths:
+      - 'configs/**'
+      - '.github/workflows/cloudflare-pages-deploy.yml'
   workflow_dispatch:
     inputs:
       environment:
@@ -17,13 +24,46 @@ on:
         - Development
 
 jobs:
+  validate:
+    runs-on: ubuntu-latest
+    name: Validate Configs
+    steps:
+      - name: Checkout configs folder
+        uses: actions/checkout@v7
+        with:
+          sparse-checkout: |
+            configs
+          sparse-checkout-cone-mode: false
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: '22'
+
+      - name: Validate configs and signed playlists
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          for file in configs/*.json; do
+            jq empty "$file"
+          done
+
+          for file in configs/*.json; do
+            if jq -e 'has("dpVersion")' "$file" >/dev/null; then
+              npx --yes @feralfile/cli@2.10.0 verify "$file"
+            fi
+          done
+
   deploy:
+    needs: validate
+    if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     name: Deploy
     environment: ${{ github.event.inputs.environment || (github.ref == 'refs/heads/main' && 'Production' || 'Development') }}
     steps:
       - name: Checkout configs folder
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           sparse-checkout: |
             configs
@@ -34,8 +74,9 @@ jobs:
           echo "{\"commit\": \"${{ github.sha }}\", \"environment\": \"${{ github.event.inputs.environment || (github.ref == 'refs/heads/main' && 'Production' || 'Development') }}\"}" > configs/version.json
 
       - name: Deploy to Cloudflare Pages
-        uses: cloudflare/wrangler-action@v3
+        uses: cloudflare/wrangler-action@v4
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
+          wranglerVersion: '3.114.17'
           command: pages deploy configs --project-name=${{ vars.CLOUDFLARE_PROJECT_NAME }}
