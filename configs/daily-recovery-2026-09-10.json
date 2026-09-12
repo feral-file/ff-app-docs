@@ -1297,7 +1297,7 @@
   "defaults": {
     "display": {
       "loop": true,
-      "scaling": "fit",
+      "scaling": "fill",
       "autoplay": true,
       "background": "#000000"
     },
@@ -1320,10 +1320,10 @@
     {
       "alg": "ed25519",
       "kid": "did:key:z6MkoX8i2dynyvLh4hUHZt8b42q9uAwwCWxM4NSX4YDfMtaC",
-      "ts": "2026-09-10T21:20:26Z",
-      "payload_hash": "sha256:141adfa47650d8642b636f9fe0cb10a061944176f8e3e317baf96b0c73c78872",
+      "ts": "2026-09-12T04:40:02Z",
+      "payload_hash": "sha256:442d141ab97a5fe2597acb889dc7f25b9c3e194a7891b908917df49b2870ee39",
       "role": "curator",
-      "sig": "U5l7qvPGopS_sDIEWWP56-Dd_Tt7TzFjcnio-m9mH2FnnklUl5L8Ch-WnFyIwbji9ri-Aw6R8ovVlWONrLf5AQ"
+      "sig": "F6QJiZpvdsVQ_b3xLaf8O35eVA_gicAP6jmKDO1Z_E4ayNq7nyPCyxIpqtyx1ri-R6IwUAhTVx-U6XjPJz2BDw"
     }
   ]
 }
