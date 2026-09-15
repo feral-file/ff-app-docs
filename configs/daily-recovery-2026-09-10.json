@@ -1,1 +1,2022 @@
-{"id": "60647c56-db21-4d14-9496-088e2ae3b48a", "slug": "feral-file-daily-temporary-recovery-60647c56", "items": [{"id": "84da82f2-9a31-4cad-993c-90c8f1c4a0ae", "title": "Scrampled AP", "source": "https://cdn.feralfileassets.com/previews/00f8e853-e20e-49bb-9f2f-8190507b8066/1615449076/?edition_number=0&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-08-01T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x28b51BA8B990c48CB22cB6EF0ad5415fdBA5210C", "tokenId": "111189432907883705479781860609730558140985427661919345637476715406273466581241", "standard": "erc721"}}}, {"id": "efe9a691-e7d7-4c82-bd89-7480dc30a499", "title": "dada data AP", "source": "https://cdn.feralfileassets.com/previews/07c766f0-edc4-45fd-be50-83f89228b08c/1615370392/?edition_number=0&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-08-02T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x28b51BA8B990c48CB22cB6EF0ad5415fdBA5210C", "tokenId": "53850398982106570267917421068933678215838025172652046814035972200709896037619", "standard": "erc721"}}}, {"id": "ad576918-f564-4518-bf8a-6db2ff4e9648", "title": "Transparent Grit AP", "source": "https://cdn.feralfileassets.com/previews/2a727b17-7890-4464-913d-3fe5ad2af4ae/1615474528/?edition_number=0&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-08-03T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x28b51BA8B990c48CB22cB6EF0ad5415fdBA5210C", "tokenId": "64490119310938983285306696386755133646434567552627492079611317320066764665822", "standard": "erc721"}}}, {"id": "37345ecf-7c25-483c-9881-6c30ec316a63", "title": "1DE94 AP", "source": "https://cdn.feralfileassets.com/previews/1f060e42-3437-444c-b823-a8b8532c449c/1615550075/?edition_number=0&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-08-04T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x28b51BA8B990c48CB22cB6EF0ad5415fdBA5210C", "tokenId": "56106112984270038917905828064139003773693484334495013411603562382354856816828", "standard": "erc721"}}}, {"id": "bf478f15-c5a2-414d-ac05-49d5abc2bedb", "title": "Arrels AP", "source": "https://cdn.feralfileassets.com/previews/43c29566-9fad-42ce-aab9-1c4947164d94/1615728457/?edition_number=0&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-08-05T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x28b51BA8B990c48CB22cB6EF0ad5415fdBA5210C", "tokenId": "59708377447550061117940200307772073115750811538487998108113477949081946656826", "standard": "erc721"}}}, {"id": "e48453db-bb7e-4fba-98a5-9adb57badbb4", "title": "uneasy dream #1", "source": "https://cdn.feralfileassets.com/previews/9983bf66-380e-4af3-bee9-237c492f18a0/1615757415/?edition_number=1&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-08-06T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x28b51BA8B990c48CB22cB6EF0ad5415fdBA5210C", "tokenId": "101203243301117787559401599223798510155457323902733064063026283969832858934880", "standard": "erc721"}}}, {"id": "00702673-84ad-4be5-a615-d15699bfaa4c", "title": "can I go where you go? AP", "source": "https://cdn.feralfileassets.com/previews/69518c54-2bc5-4b90-b606-675529c7593d/1615845070/?edition_number=0&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-08-07T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x28b51BA8B990c48CB22cB6EF0ad5415fdBA5210C", "tokenId": "81364566765837085577860824876328324342986698332133339997943493484390163948634", "standard": "erc721"}}}, {"id": "6ee8da0d-45cd-4b13-8b07-fc4dc8a70238", "title": "Lamia AP", "source": "https://cdn.feralfileassets.com/previews/33e55482-5dac-40b8-972e-750c374d69bb/1615652677/?edition_number=0&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-08-08T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x28b51BA8B990c48CB22cB6EF0ad5415fdBA5210C", "tokenId": "82162346596283144564966583883145667011953207418372457382158238642223100810926", "standard": "erc721"}}}, {"id": "c8887d5d-01d7-4df6-a1bb-a335d4e9bddd", "title": "enchanting luxuriance #1", "source": "https://cdn.feralfileassets.com/previews/5af4af6f-1e6b-4e45-95db-7b4de60fe0ca/1615757683/?edition_number=1&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-08-09T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x28b51BA8B990c48CB22cB6EF0ad5415fdBA5210C", "tokenId": "13817206977692934950913675317980862042943036316936798729844259854918098451891", "standard": "erc721"}}}, {"id": "c89c7faf-d124-4c13-bb19-073e21a7f059", "title": "Shimmer AP", "source": "https://cdn.feralfileassets.com/previews/28cad12d-50f2-4d82-a77d-1284cf934b8c/1615815656/?edition_number=0&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-08-10T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x28b51BA8B990c48CB22cB6EF0ad5415fdBA5210C", "tokenId": "12686393674845874925129035513704534169549355780905676792985114895836083713054", "standard": "erc721"}}}, {"id": "606447d4-1b4a-4332-8f6f-0b57659d9bbf", "title": "Kiki.object AP", "source": "https://cdn.feralfileassets.com/previews/adc4221c-4f00-4193-ac82-c4d9b1a0b681/1620671843/?edition_number=0&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-08-11T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0xaa02CC02F4531Ee75d1b78Cb5A155d4F3B54f830", "tokenId": "96771943360785186741996452302073966236579300824111140539788543630792641248244", "standard": "erc721"}}}, {"id": "dcb79c27-b7c9-4438-86fe-afb7ab2a93ba", "title": "peep-o-rama #1", "source": "https://cdn.feralfileassets.com/previews/6bcc9b62-0ca3-4fdc-8232-0a3f2d4adf13/1620666173/?edition_number=1&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-08-12T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0xaa02CC02F4531Ee75d1b78Cb5A155d4F3B54f830", "tokenId": "114970431608051395943569876850935771953364586808023858895883676728184077500171", "standard": "erc721"}}}, {"id": "c33ad57c-4bb6-4473-bfa1-e6dbd13c5245", "title": "The Mystery [v5-dv1]  AP", "source": "https://cdn.feralfileassets.com/previews/2a57c29f-fa5b-440d-8dee-2d58cdb9238c/1620669376/?edition_number=0&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-08-13T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0xaa02CC02F4531Ee75d1b78Cb5A155d4F3B54f830", "tokenId": "81098335648093680823259892135140949280760206716406137867581119940294251436938", "standard": "erc721"}}}, {"id": "c496a92c-5b31-40fb-836c-bf55eb5b91c5", "title": "Blue Veil AP", "source": "https://cdn.feralfileassets.com/previews/c974b77f-3734-4952-9cea-1dcd591cc48d/1624186582/compressed.mp4", "license": "open", "duration": 300, "displayAt": "2026-08-14T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x979316F5b3f3d8db956Af519553c853525A5b1Af", "tokenId": "112327165864328605214780140867906700972042550799136203077961123286011617949745", "standard": "erc721"}}}, {"id": "822b95d4-5e23-474e-a241-e22e197ddb04", "title": "Spectrality (from The Divers, IX) #1", "source": "https://cdn.feralfileassets.com/previews/3a9f6d14-d53d-4d5c-b55a-f0e5793d5d0e/1620350770/?edition_number=1&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-08-15T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0xaa02CC02F4531Ee75d1b78Cb5A155d4F3B54f830", "tokenId": "69822369579579992440644516414785738093541892787964403178330236084957086484278", "standard": "erc721"}}}, {"id": "64e3aa80-20ec-459a-aa8c-2e50e497eacf", "title": "Slipstream 001 AP", "source": "https://cdn.feralfileassets.com/previews/e9aab828-96ae-4d16-b155-6bb9fded9f34/1620621299/compressed.mp4", "license": "open", "duration": 300, "displayAt": "2026-08-16T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0xaa02CC02F4531Ee75d1b78Cb5A155d4F3B54f830", "tokenId": "86097417832866893814481914419505665823253627313598434259730738896504147347536", "standard": "erc721"}}}, {"id": "26377e93-eed2-41ac-8d2a-80a84c3675ed", "title": "Earmark #1", "source": "https://cdn.feralfileassets.com/previews/7764ae91-0392-48fb-b68c-796d701bed08/1620416013/?edition_number=1&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-08-17T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0xaa02CC02F4531Ee75d1b78Cb5A155d4F3B54f830", "tokenId": "78546631552134914423968274408176321960666687886495895645569015375081417961802", "standard": "erc721"}}}, {"id": "70a8cabd-7700-47e0-b916-e98141746092", "title": "Mutant Bagua #1", "source": "https://cdn.feralfileassets.com/previews/89c348c1-6e78-4e00-ac3f-f58c9e732731/1624234006/?edition_number=1&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-08-18T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x979316F5b3f3d8db956Af519553c853525A5b1Af", "tokenId": "60376207215736547451168424924260687305243902308116219208599052892200982633699", "standard": "erc721"}}}, {"id": "caae2dfa-6ee1-4859-87ee-a5b030aa60dd", "title": "D. Flagellum #1", "source": "https://cdn.feralfileassets.com/previews/c40d0e81-c8dd-44a3-9fc8-2caa36101516/1624041254/compressed.mp4", "license": "open", "duration": 300, "displayAt": "2026-08-19T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x979316F5b3f3d8db956Af519553c853525A5b1Af", "tokenId": "24464211475253544142247344694917082453292871811282922939810423860461543911074", "standard": "erc721"}}}, {"id": "b6aa495a-cdb4-44d5-bcfb-24eff7e08fd5", "title": "Rose AP", "source": "https://cdn.feralfileassets.com/previews/b3dacae7-dcc3-40e1-9dd4-9e2047398c01/1624255151/compressed.mp4", "license": "open", "duration": 300, "displayAt": "2026-08-20T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x979316F5b3f3d8db956Af519553c853525A5b1Af", "tokenId": "61597698234799203345339339493550343239959538565077715461614059946090805630889", "standard": "erc721"}}}, {"id": "84a3184f-7128-41f5-aa5d-66ce912208a4", "title": "Forest Transmission AP", "source": "https://cdn.feralfileassets.com/previews/48f6b892-d3aa-4eae-87db-040e195e00a5/1624340822/compressed.mp4", "license": "open", "duration": 300, "displayAt": "2026-08-21T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x979316F5b3f3d8db956Af519553c853525A5b1Af", "tokenId": "110114752152540371887409529388929910022808799500120602240695433637723919708647", "standard": "erc721"}}}, {"id": "44da0748-a031-49f3-b56c-7dcc557d953f", "title": "Temple Lily AP", "source": "https://cdn.feralfileassets.com/previews/ce7c5624-af01-4a1d-ad77-eee51cb54327/1624200329/compressed.mp4", "license": "open", "duration": 300, "displayAt": "2026-08-22T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x979316F5b3f3d8db956Af519553c853525A5b1Af", "tokenId": "52890545178984107233010252335843901677733841828576548989562413436929399359700", "standard": "erc721"}}}, {"id": "09fc2da9-4ae8-422c-a537-548c2f98e4a6", "title": "Caylx #1", "source": "https://cdn.feralfileassets.com/previews/50aa02eb-dccf-4003-99a2-69a1f62cb337/1624343623/compressed.mp4", "license": "open", "duration": 300, "displayAt": "2026-08-23T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x979316F5b3f3d8db956Af519553c853525A5b1Af", "tokenId": "75042946480313672171500136693219929921605198490900503320741478797598186727852", "standard": "erc721"}}}, {"id": "42d3f106-ad5f-4683-b0ba-b76dac615d36", "title": "COUNT ZERO FOUR AP", "source": "https://cdn.feralfileassets.com/previews/1b205395-6654-4174-b170-45c82866270b/1624043512/?edition_number=0&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-08-24T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x979316F5b3f3d8db956Af519553c853525A5b1Af", "tokenId": "165325811143305924095244232836109005706401101678251165564751721130722506624", "standard": "erc721"}}}, {"id": "ec7370b1-8738-4b00-8758-eebfadc4af29", "title": "The Shredded Hologram Rose AP", "source": "https://cdn.feralfileassets.com/previews/6053b698-2016-4c05-9353-6941635c1609/1624467464/compressed.mp4", "license": "open", "duration": 300, "displayAt": "2026-08-25T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x979316F5b3f3d8db956Af519553c853525A5b1Af", "tokenId": "80293004185993315229961265750178126430939810844219749205334856951927038992852", "standard": "erc721"}}}, {"id": "24512182-d153-4674-847c-4cdf6fb10971", "title": "Floralia II #1", "source": "https://cdn.feralfileassets.com/previews/ca471793-baf8-43db-bf1a-b811f4608297/1624296713/compressed.mp4", "license": "open", "duration": 300, "displayAt": "2026-08-26T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x979316F5b3f3d8db956Af519553c853525A5b1Af", "tokenId": "90030517998886336964182753065636157373955844525653880512706154948462778305032", "standard": "erc721"}}}, {"id": "f49707d1-e7e8-4f08-93d2-ab16996c4e0d", "title": "Plants are everywhere you can’t see them AP", "source": "https://cdn.feralfileassets.com/previews/685f39aa-f9ca-4bfd-84af-d69ad3f8b2c3/1624118288/compressed.png", "license": "open", "duration": 300, "displayAt": "2026-08-27T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x979316F5b3f3d8db956Af519553c853525A5b1Af", "tokenId": "11099514349916357724051036428569677406815568142134691321232943996482542628401", "standard": "erc721"}}}, {"id": "bb95b11d-c161-467e-bb3a-24ba57d7c308", "title": "The One Who Lived Yesterday #3", "source": "https://cdn.feralfileassets.com/previews/78850fcd-afca-4757-a9c6-9c847cb3c49d/1627351315/compressed.mp4", "license": "open", "duration": 300, "displayAt": "2026-08-28T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x6E906B2E355294A6aeCD6B4F75816Eda9F703dda", "tokenId": "22657993772082865768605623542379465543407933048643732369983789635191122852547", "standard": "erc721"}}}, {"id": "9a1e1c16-da11-4ec2-a16a-92757c9bf30a", "title": "Abstract Oracle Miner 0009328437 AP", "source": "https://cdn.feralfileassets.com/previews/252527ee-2232-45e0-9ead-27379ff26219/1627998769/?edition_number=0&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-08-29T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x6E906B2E355294A6aeCD6B4F75816Eda9F703dda", "tokenId": "66815841292746238875369607413359715929595849345785499493666443122331489014360", "standard": "erc721"}}}, {"id": "95897613-922a-4d48-8a6a-6bd26f4a02f6", "title": "E-dream: We’ll stay, forever, in this way (2020 selected) #2", "source": "https://cdn.feralfileassets.com/previews/231fa61b-eb94-40d7-9a5c-0d5c7e94f1ed/1627666801/compressed.mp4", "license": "open", "duration": 300, "displayAt": "2026-08-30T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x6E906B2E355294A6aeCD6B4F75816Eda9F703dda", "tokenId": "29194041702925236744353945193014693578095980000033913575374734974124390097261", "standard": "erc721"}}}, {"id": "fee31b21-b571-4bb9-b673-f215e2820b46", "title": "Free Fall Study III AP", "source": "https://cdn.feralfileassets.com/previews/06dccbad-8fee-4c3c-934a-7eb45bd0b9d1/1627392674/compressed.mp4", "license": "open", "duration": 300, "displayAt": "2026-08-31T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x6E906B2E355294A6aeCD6B4F75816Eda9F703dda", "tokenId": "99133640894422675116374717028969564302417114830010506430634523015085339716874", "standard": "erc721"}}}, {"id": "67cfdfd6-5a80-4a24-829a-49cbb936aac6", "title": "Satellite #3", "source": "https://cdn.feralfileassets.com/previews/5472181b-3d22-436b-88fb-bb3e07fa073d/1627539250/compressed.mp4", "license": "open", "duration": 300, "displayAt": "2026-09-01T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x6E906B2E355294A6aeCD6B4F75816Eda9F703dda", "tokenId": "100728851220516404165832874942029781290252352537800379098449139279257748909241", "standard": "erc721"}}}, {"id": "3256878f-8ab9-4eed-93b0-08c9794e146a", "title": "In endless flow of absolute truth, there are innumerable relative conjecture. AP", "source": "https://cdn.feralfileassets.com/previews/2d1f1330-d66a-4e9e-afd6-c17e5e55f2c4/1627893099/?edition_number=0&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-09-02T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x6E906B2E355294A6aeCD6B4F75816Eda9F703dda", "tokenId": "51821227972396260215122454554483903868091982780205586118657621413642909939812", "standard": "erc721"}}}, {"id": "609e442c-2fdb-4a75-8b31-a795259a219e", "title": "Steering Pixels #3", "source": "https://cdn.feralfileassets.com/previews/1703b594-d76d-49a5-a6c8-ce04f85550ed/1627323098/compressed.mp4", "license": "open", "duration": 300, "displayAt": "2026-09-03T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x6E906B2E355294A6aeCD6B4F75816Eda9F703dda", "tokenId": "84244924611474804795241786574817959153681137312793854041833484292696191893627", "standard": "erc721"}}}, {"id": "5430ba65-568b-473b-932e-0980fb0753f8", "title": "What do you want me to say? AP", "source": "https://cdn.feralfileassets.com/previews/f2db8c40-a2fb-4a93-be03-75ce3b3133f3/1630436182/?edition_number=0&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-09-04T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x1d5bdC75918600541C115b74b81a404C9E4AF7D4", "tokenId": "12840682995913677806001798836709465389866153646272085769634026756001512030506", "standard": "erc721"}}}, {"id": "59e1bb10-a6fb-4196-8566-30ed81d031e3", "title": "Just in case #1", "source": "https://cdn.feralfileassets.com/previews/91a3ea94-f606-40a9-9e39-611bdcb46fdd/1629977054/preview.gif", "license": "open", "duration": 300, "displayAt": "2026-09-05T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x1d5bdC75918600541C115b74b81a404C9E4AF7D4", "tokenId": "65701061192416629647091860341813823518299396124148428848093552523919884889905", "standard": "erc721"}}}, {"id": "4c8c1258-f9ea-429f-afc3-c9124f057409", "title": "Ultimate Solvers AP", "source": "https://cdn.feralfileassets.com/previews/51a53d4e-c60f-4582-8edc-c9998ed40a24/1629968561/?edition_number=0&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-09-06T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x1d5bdC75918600541C115b74b81a404C9E4AF7D4", "tokenId": "13843231308003667629763411009854807364049237540643953179739929600368051091847", "standard": "erc721"}}}, {"id": "51ff8930-e94b-4535-92fd-7e877b3c51e9", "title": "24/7 AP", "source": "https://cdn.feralfileassets.com/previews/cf435a8a-c4df-4606-9acc-809217ab367b/1630268462/preview.mp4", "license": "open", "duration": 300, "displayAt": "2026-09-07T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x1d5bdC75918600541C115b74b81a404C9E4AF7D4", "tokenId": "49680436437337850500957598925994160948465521154464009609768089907101356076688", "standard": "erc721"}}}, {"id": "7558a8cb-3010-461c-92c5-b2899e3a1779", "title": "Emergence AP", "source": "https://cdn.feralfileassets.com/previews/a1b6689f-5236-471a-97a6-70ea0879dd42/1630583755/?edition_number=0&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-09-08T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x1d5bdC75918600541C115b74b81a404C9E4AF7D4", "tokenId": "29675870761587803123850255772014231519473951568011717151584536753918684144705", "standard": "erc721"}}}, {"id": "1f4a1bb2-1534-4e02-bb5a-64f030a04884", "title": "Predictive Art Bot AP", "source": "https://cdn.feralfileassets.com/previews/47db4cae-c786-4bb3-8735-e932ab81ed7f/1630258818/?edition_number=0&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-09-09T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x1d5bdC75918600541C115b74b81a404C9E4AF7D4", "tokenId": "72831279254957510195555145377250501155718231347682912715173209101067739974718", "standard": "erc721"}}}, {"id": "eceb6a2b-dd4f-42a6-96b1-6ab039d0e3c1", "title": "Minos AP", "source": "https://cdn.feralfileassets.com/previews/6e0b8c01-5b11-4ceb-b40a-c1d8efa4a66a/1629980523/?edition_number=0&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-09-11T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x1d5bdC75918600541C115b74b81a404C9E4AF7D4", "tokenId": "71476444588005777011178902025495148361331893381891419132241003166976552058050", "standard": "erc721"}}}, {"id": "1ecdb6f1-4e9a-4c20-b3d4-16343ae6f38b", "title": "Sigils #1", "source": "https://cdn.feralfileassets.com/previews/746f680d-9a6c-4125-9486-3271bdbe7e6e/1630315151/preview.mp4", "license": "open", "duration": 300, "displayAt": "2026-09-12T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x1d5bdC75918600541C115b74b81a404C9E4AF7D4", "tokenId": "70585773858598475291209973498859065267624231135253536894691595122958978116706", "standard": "erc721"}}}, {"id": "08c9b829-d5fb-42cc-be09-4364393ed907", "title": "Neonumens #1", "source": "https://cdn.feralfileassets.com/previews/fe63cbf2-7377-4497-919b-853dd22c63e7/1629999287/preview.mp4", "license": "open", "duration": 300, "displayAt": "2026-09-13T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x1d5bdC75918600541C115b74b81a404C9E4AF7D4", "tokenId": "88065805420627234584524446777167433688187033905063730310714169570369193825419", "standard": "erc721"}}}, {"id": "837c6ef0-7c91-48fd-bd4b-e29489b993bf", "title": "Are Smart Machines Alive? AP", "source": "https://cdn.feralfileassets.com/previews/4f3fe912-d226-48b1-8120-56566426d110/1630004919/preview.mp4", "license": "open", "duration": 300, "displayAt": "2026-09-14T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x1d5bdC75918600541C115b74b81a404C9E4AF7D4", "tokenId": "56118370897972180535083884653105777704508589841726951274442774583420870303320", "standard": "erc721"}}}, {"id": "5ac80227-d6b8-4ac8-b45a-6e155cf3f01c", "title": "Signal of the World AP", "source": "https://cdn.feralfileassets.com/previews/496bd7c1-d524-44fd-b8d6-9eb03fb9f320/1629962649/preview.mp4", "license": "open", "duration": 300, "displayAt": "2026-09-15T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x1d5bdC75918600541C115b74b81a404C9E4AF7D4", "tokenId": "114134603993208105336569614100180464145718343141944688776188492901127728944492", "standard": "erc721"}}}, {"id": "eb2532d9-cf58-46de-8c14-31eb13824fa9", "title": "3 ORBS AP", "source": "https://cdn.feralfileassets.com/previews/ebe3df0f-f765-410e-b2fa-edd39dcf5369/1631817212/?edition_number=0&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-09-16T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0xE5163c74fFE6563D75d750E5d767122500a1c337", "tokenId": "1982142444428207150540790152954285579034622660492491181160941165640986713537", "standard": "erc721"}}}, {"id": "180244c6-e0c1-4aca-9ec8-43bd5cc3e453", "title": "4 ORBS AP", "source": "https://cdn.feralfileassets.com/previews/6862d0b4-252f-469d-8327-c0d79f8b4a67/1631208788/?edition_number=0&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-09-17T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0xE5163c74fFE6563D75d750E5d767122500a1c337", "tokenId": "91855458526945298708150706222724755710777598255848949820121191342597544813890", "standard": "erc721"}}}, {"id": "2c5139dc-097a-4e30-a0b3-208b075541f0", "title": "Mirror Arm AP", "source": "https://cdn.feralfileassets.com/previews/f6d4f5f8-7f31-48c9-871e-b2cf4d4270aa/1631260875/?edition_number=0&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-09-18T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0xE5163c74fFE6563D75d750E5d767122500a1c337", "tokenId": "107758526672441256891277994701277580194739367183403564015665252403427263518758", "standard": "erc721"}}}, {"id": "b441fa45-cc7b-4dfc-88f4-875aab997b83", "title": "Hatless AP", "source": "https://cdn.feralfileassets.com/previews/4f6816b5-3d84-4715-b025-c8a837030b49/1631260821/?edition_number=0&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-09-19T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0xE5163c74fFE6563D75d750E5d767122500a1c337", "tokenId": "23539813904923401488731829639056055063633307823941105936385429154970558232802", "standard": "erc721"}}}, {"id": "87fff944-59b5-40ed-9cf5-2f8eaffb1b2e", "title": "k.f0 AP", "source": "https://cdn.feralfileassets.com/previews/26433d62-bb36-46f8-bc8e-ed7214967cc2/1631214206/?edition_number=0&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-09-20T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0xE5163c74fFE6563D75d750E5d767122500a1c337", "tokenId": "47896422095579711099185835491703333438573086439509639910123685376750831346255", "standard": "erc721"}}}, {"id": "dea90767-4120-4dd3-9320-e6368e73f45f", "title": "Picnic 001 AP", "source": "https://cdn.feralfileassets.com/previews/f548cb77-a829-42ea-b097-3b54603a0d8f/1631287550/preview.gif", "license": "open", "duration": 300, "displayAt": "2026-09-21T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0xE5163c74fFE6563D75d750E5d767122500a1c337", "tokenId": "109306892524557668562611376466566141821456642481863638052963541895447922445942", "standard": "erc721"}}}, {"id": "f462a836-c51a-41ad-803f-5cb455eb4c40", "title": "POST 1 AP", "source": "https://cdn.feralfileassets.com/previews/5d7e9132-059f-44d9-a6a9-3c8a9b688965/1632387593/?edition_number=0&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-09-22T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0xE5163c74fFE6563D75d750E5d767122500a1c337", "tokenId": "49343618154684871155946424463360241913698617254930957613875244917599572983619", "standard": "erc721"}}}, {"id": "aedc213c-93ec-498b-9911-c47e6c4e7b74", "title": "Picnic 002 AP", "source": "https://cdn.feralfileassets.com/previews/af4fe2af-67bb-4440-9885-621d5c3bf965/1631287161/preview.gif", "license": "open", "duration": 300, "displayAt": "2026-09-23T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0xE5163c74fFE6563D75d750E5d767122500a1c337", "tokenId": "4768033689500491239571182329245737464774884961374789940985316154356260180914", "standard": "erc721"}}}, {"id": "6859b05e-2dfd-4535-b487-5d70e33e61bb", "title": "POST 2 AP", "source": "https://cdn.feralfileassets.com/previews/18125d2a-d424-496f-9949-9c3e625f114e/1632387574/?edition_number=0&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-09-24T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0xE5163c74fFE6563D75d750E5d767122500a1c337", "tokenId": "38622232778044864544569085641792553318552889992573744648587777959046129258035", "standard": "erc721"}}}, {"id": "ecdaeee9-4b2c-45a7-b450-08eed8d8e57a", "title": "k.a9 AP", "source": "https://cdn.feralfileassets.com/previews/3620d7ce-0677-4c59-be8e-0638632dc43b/1631214470/?edition_number=0&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-09-25T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0xE5163c74fFE6563D75d750E5d767122500a1c337", "tokenId": "43792463560781556265569689858463143429649243267448038556726932312834463981159", "standard": "erc721"}}}, {"id": "70156daa-b47f-4382-b10b-ef21b1f559a9", "title": "There once was a jellyfish ... AP", "source": "https://cdn.feralfileassets.com/previews/7462201d-7fd6-4ee9-83f6-4e4b35c39de1/1632297823/preview.mp4", "license": "open", "duration": 300, "displayAt": "2026-09-26T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "tezos", "address": "KT1Q3GCiWndMUWBjeUt12crnDFF9PFohhfmZ", "tokenId": "48885253734310901996659558313632398996651385749398413959931495410500490485700", "standard": "fa2"}}}, {"id": "010e5c0a-d848-4ba2-90ca-bbaa9cdbd200", "title": "Fragments:30.2051 N, 90.1121 W AP", "source": "https://cdn.feralfileassets.com/previews/e1b87ae6-d871-4e70-8df1-f9cd7dbd09f9/1632751432/preview.mp4", "license": "open", "duration": 300, "displayAt": "2026-09-27T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "tezos", "address": "KT1Q3GCiWndMUWBjeUt12crnDFF9PFohhfmZ", "tokenId": "32099334805983447258866551994105878902360061489704626123683001823138466386161", "standard": "fa2"}}}, {"id": "d5ec5d78-d999-4c24-a570-1d02251bd336", "title": "Vague Recollection AP", "source": "https://cdn.feralfileassets.com/previews/d7f80e10-a227-4272-bd58-2da08703d460/1632732499/?edition_number=0&blockchain=bitmark", "license": "open", "duration": 300, "displayAt": "2026-09-28T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "tezos", "address": "KT1Q3GCiWndMUWBjeUt12crnDFF9PFohhfmZ", "tokenId": "94186457776527967053970378473105398943926084681415948811694628567454162496662", "standard": "fa2"}}}, {"id": "36a4c7f5-bf0c-4aa5-a297-487083fc548d", "title": "Contemplating Motion AP", "source": "https://cdn.feralfileassets.com/previews/6ceb34ad-a8e2-40af-ada7-121a778ec352/1632752834/preview.mp4", "license": "open", "duration": 300, "displayAt": "2026-09-29T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x29C9E04E05c5d261836e458BC5B779a7dE3C58D6", "tokenId": "39268874706162972973073452756546436351555450496488933620292243754276447986671", "standard": "erc721"}}}, {"id": "44f5a316-8b34-4810-80a0-ef2c682c6006", "title": "Solstice Sky Dream AP", "source": "https://cdn.feralfileassets.com/previews/f27c6217-e4c0-4f82-b8b7-d38c8653b0dd/1632474304/preview.mp4", "license": "open", "duration": 300, "displayAt": "2026-09-30T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x29C9E04E05c5d261836e458BC5B779a7dE3C58D6", "tokenId": "66768636378376097047702060324449050956931912246977172022478401746681657931493", "standard": "erc721"}}}, {"id": "0550bda6-d1b9-4e70-91df-5036dbc8cd3e", "title": "Pixie AP", "source": "https://cdn.feralfileassets.com/previews/8718cfaf-3a37-4112-bc66-c3654d2fb302/1632771101/preview.mp4", "license": "open", "duration": 300, "displayAt": "2026-10-01T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "tezos", "address": "KT1Q3GCiWndMUWBjeUt12crnDFF9PFohhfmZ", "tokenId": "79568488134303915841900859844030126604594604746041452671933316381247346860398", "standard": "fa2"}}}, {"id": "a6b3fe78-fae3-4152-a0fe-703ee59716a6", "title": "Fragments of Self AP", "source": "https://cdn.feralfileassets.com/previews/83c776c3-262e-4f1d-95f9-97f6d2ccb7cd/1632574381/preview.mp4", "license": "open", "duration": 300, "displayAt": "2026-10-02T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "tezos", "address": "KT1Q3GCiWndMUWBjeUt12crnDFF9PFohhfmZ", "tokenId": "80692239583680033368815605110691333128786508257847812065080211904733049634598", "standard": "fa2"}}}, {"id": "288eeffe-9964-46b3-bfd6-8fb9e5bdd424", "title": "Venuses (quantum bodies watched by Open Pose algorithm) #1", "source": "https://cdn.feralfileassets.com/previews/4a58d6e4-d014-4ea3-9837-f7892fd48157/1632512625/preview.mp4", "license": "open", "duration": 300, "displayAt": "2026-10-03T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "tezos", "address": "KT1Q3GCiWndMUWBjeUt12crnDFF9PFohhfmZ", "tokenId": "75747731665689965407902221511726863463013349916962479906701106709260396584884", "standard": "fa2"}}}, {"id": "cae01aa0-fe09-47d3-93f1-e92015304ad2", "title": "Strange Fruit AP", "source": "https://cdn.feralfileassets.com/previews/063ccfde-866d-4dbd-95ed-5213336cfbca/1632743139/preview.mp4", "license": "open", "duration": 300, "displayAt": "2026-10-04T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x29C9E04E05c5d261836e458BC5B779a7dE3C58D6", "tokenId": "105407197227404785108315597710184983582473381433138657116787723337294696803947", "standard": "erc721"}}}, {"id": "e3e1b3ff-ea7c-4794-a424-99687ca6616f", "title": "Neighbors #1", "source": "https://cdn.feralfileassets.com/previews/d26432cc-df0d-42c3-94db-098332b438b6/1632998045/preview.mp4", "license": "open", "duration": 300, "displayAt": "2026-10-05T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "tezos", "address": "KT1Q3GCiWndMUWBjeUt12crnDFF9PFohhfmZ", "tokenId": "64341266089255334162810533713095127882920054599483430324509055910570834329756", "standard": "fa2"}}}, {"id": "6e96df9e-68a7-4fd1-aae5-58e437c39511", "title": "Leaves of Manifold, of Red and Gold #1", "source": "https://cdn.feralfileassets.com/previews/92a0c691-c281-4a93-ae1f-48d5eacd0ee3/1632824880/preview.gif", "license": "open", "duration": 300, "displayAt": "2026-10-06T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x29C9E04E05c5d261836e458BC5B779a7dE3C58D6", "tokenId": "44454718090882994093426117371750302173177614072300164086807993220170969920394", "standard": "erc721"}}}, {"id": "0a705d7a-54eb-42be-939d-796054c67f18", "title": "CUSP - Marsh Birds AP", "source": "https://cdn.feralfileassets.com/previews/3224d677-f521-415d-86c0-1f2f9c47abef/1632440301/preview.mp4", "license": "open", "duration": 300, "displayAt": "2026-10-07T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x29C9E04E05c5d261836e458BC5B779a7dE3C58D6", "tokenId": "39572472606789710047615029395828155353486011854843958752751124670424911688553", "standard": "erc721"}}}, {"id": "93999a6b-8c6d-4cb0-adc0-305798f51a39", "title": "Unsupervised — Burned — Data Universe — MoMA — 2D #1", "source": "https://cdn.feralfileassets.com/previews/f8d29291-cac7-480b-aacd-05de41d1a1ae/1684319165/preview.mp4", "license": "open", "duration": 300, "displayAt": "2026-10-08T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x559fE9Fe5E2DAE7A7ae5766457096E6d7C647A46", "tokenId": "89970703136813096194386978740263577426008641841447607440390967327466404095866", "standard": "erc721"}}}, {"id": "9306d0c5-6ff3-418d-831f-dd89d1acc53c", "title": "Unsupervised — Burned — Data Universe — MoMA — 3D #1", "source": "https://cdn.feralfileassets.com/previews/aac17bb5-3377-4e4d-92bd-3767881bfba7/1684319207/preview.mp4", "license": "open", "duration": 300, "displayAt": "2026-10-09T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0xc490888997d65df70FE69f33BA3bf7C8D12989CF", "tokenId": "44698415037170023611077639980855462881371582800501602828429077410131151838073", "standard": "erc721"}}}, {"id": "66bf0889-92fe-4437-90b6-01c7ded42085", "title": "Unsupervised — Burned — Machine Hallucinations — MoMA Dreams #1", "source": "https://cdn.feralfileassets.com/previews/72b1a11a-16da-4550-aa2c-7f197a219ae8/1684311810/_unique-previews/0", "license": "open", "duration": 300, "displayAt": "2026-10-10T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x9D6c8e4B348999A69eE24285cd81226f4628e8F8", "tokenId": "72683907607289245948376378937398657013536021870223758380494556672121413187169", "standard": "erc721"}}}, {"id": "e4a16f5b-97fa-4087-a677-75d349b77976", "title": "Unsupervised — Machine Hallucinations — MoMA", "source": "https://cdn.feralfileassets.com/previews/29b720ff-fcbf-4467-a53d-e79a90ad0d60/1637059159/preview.mp4", "license": "open", "duration": 300, "displayAt": "2026-10-11T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x7a15b36cB834AeA88553De69077D3777460d73Ac", "tokenId": "66965029230094245694785985847399663964803402403207832947552806358116789198961", "standard": "erc721"}}}, {"id": "1127d080-bee8-4cfc-910f-43ce779a3de2", "title": "Unsupervised — Machine Hallucinations — MoMA Generative Study 1", "source": "https://cdn.feralfileassets.com/previews/96f1663b-5216-4758-aa7f-3a70e6d9d45b/1637052748/preview.mp4", "license": "open", "duration": 300, "displayAt": "2026-10-12T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x7a15b36cB834AeA88553De69077D3777460d73Ac", "tokenId": "68717547499709147316094146770796383443925587785864914584526615797593766025991", "standard": "erc721"}}}, {"id": "1d5015a8-f6ec-4aca-b8e7-5682de425ecd", "title": "Unsupervised — Machine Hallucinations — MoMA Fluid Dreams", "source": "https://cdn.feralfileassets.com/previews/d6e1e0f1-7a9d-46f1-a691-bf0604e755b5/1637053622/preview.mp4", "license": "open", "duration": 300, "displayAt": "2026-10-13T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x7a15b36cB834AeA88553De69077D3777460d73Ac", "tokenId": "96186361738988730929202118688262424103444309134708770864876998274999853867500", "standard": "erc721"}}}, {"id": "366419c1-d03c-4be1-a0bf-88d1516a7221", "title": "Unsupervised — Machine Hallucinations — MoMA Dreams — A AP", "source": "https://cdn.feralfileassets.com/previews/d35cdb38-917f-42f3-9914-e276dc5f0ded/1637045388/preview.jpg", "license": "open", "duration": 300, "displayAt": "2026-10-14T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x7a15b36cB834AeA88553De69077D3777460d73Ac", "tokenId": "9654437293614983878447008954651574738102085915959744418992085055843510330527", "standard": "erc721"}}}, {"id": "6b3c512e-1c22-4739-b9ba-a94d9860d78e", "title": "Unsupervised — Machine Hallucinations — MoMA Dreams — B AP", "source": "https://cdn.feralfileassets.com/previews/821dd86a-8764-441f-af58-95c857a7c4d3/1637046150/preview.jpg", "license": "open", "duration": 300, "displayAt": "2026-10-15T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x7a15b36cB834AeA88553De69077D3777460d73Ac", "tokenId": "54682151706815913185894207919983797355021603287101182631346106136630027792894", "standard": "erc721"}}}, {"id": "f7a7290e-04ef-4016-abf8-8405534f1de2", "title": "Unsupervised — Machine Hallucinations — MoMA Dreams — C AP", "source": "https://cdn.feralfileassets.com/previews/c3b2c10b-91c6-4e2f-83bc-fcb5068e98be/1637046206/preview.jpg", "license": "open", "duration": 300, "displayAt": "2026-10-16T00:00:00", "provenance": {"type": "onChain", "contract": {"chain": "evm", "address": "0x7a15b36cB834AeA88553De69077D3777460d73Ac", "tokenId": "106246018777602716151571873331818585646615221152111297965994288240674568755515", "standard": "erc721"}}}, {"id": "2b277a75-cecf-4095-b727-af81e694923e", "slug": "ripe-to-be-a-machine-display-1", "title": "RIPE — To Be a Machine — Display 1", "source": "https://tbam.ripe.wtf/display/node-1", "display": {"scaling": "fit", "background": "#000000"}, "license": "open", "duration": 300, "displayAt": "2026-10-17T00:00:00"}, {"id": "e4579f0e-307d-412a-94d3-eed41b25218c", "slug": "unsupervised-moma-dreams-a", "title": "Unsupervised — MoMA — Dreams — A", "source": "https://ipfs.feralfile.com/ipfs/QmPWHe6vEYDcJWYSGZCy6wwpMf3Wi61uWgFE2oSuy5s5KP", "display": {"scaling": "fill", "background": "#000000"}, "license": "open", "duration": 300, "displayAt": "2026-10-18T00:00:00", "inlineManifest": {"id": "4fd5cc63-b797-543d-a48f-ab4e4bd15cbf", "locale": "en", "created": "2026-09-11T20:54:45Z", "metadata": {"title": "Unsupervised — MoMA — Dreams — A", "artists": [{"name": "Refik Anadol"}]}, "refVersion": "1.1.0"}}, {"id": "69319358-3833-4ad1-84ca-eb518891e76a", "slug": "machine-hallucinations-coral-generative-ai-data-painting-a", "title": "Machine Hallucinations — Coral — Generative AI Data Painting — A", "source": "https://ipfs.feralfile.com/ipfs/bafybeigknz2wrdlyg64wfunrgieflllkm4nf63iiiae76wvfzhq672je74", "display": {"scaling": "fill", "background": "#000000"}, "license": "open", "duration": 300, "displayAt": "2026-10-19T00:00:00", "inlineManifest": {"id": "4e3a34be-99ed-59d6-baae-08d561cf51ca", "locale": "en", "created": "2026-09-11T20:54:45Z", "metadata": {"title": "Machine Hallucinations — Coral — Generative AI Data Painting — A", "artists": [{"name": "Refik Anadol"}]}, "refVersion": "1.1.0"}}, {"id": "97078a9e-5139-4751-a82d-96dfe30ba969", "slug": "unsupervised-moma-burned-moma-dreams-1", "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #1", "source": "https://ipfs.feralfile.com/ipfs/QmfJmrnaWHMks3tDfrydvaHjZBsbSBdgy93ftfJHXSfdPW", "display": {"scaling": "fill", "background": "#000000"}, "license": "open", "duration": 300, "displayAt": "2026-10-20T00:00:00", "inlineManifest": {"id": "49226d44-2d5c-5092-9332-64059cebc6df", "locale": "en", "created": "2026-09-11T20:54:45Z", "metadata": {"title": "Unsupervised — MoMA — Burned — MoMA Dreams — #1", "artists": [{"name": "Refik Anadol"}]}, "refVersion": "1.1.0"}}, {"id": "2ef105a2-006e-4315-8e88-dfea84e35301", "slug": "ripe-to-be-a-machine-display-2", "title": "RIPE — To Be a Machine — Display 2", "source": "https://tbam.ripe.wtf/display/node-2", "display": {"scaling": "fit", "background": "#000000"}, "license": "open", "duration": 300, "displayAt": "2026-10-21T00:00:00"}, {"id": "a1f8cd2d-388d-4f48-b385-250dc9dd1097", "slug": "unsupervised-moma-dreams-b", "title": "Unsupervised — MoMA — Dreams — B", "source": "https://ipfs.feralfile.com/ipfs/QmSGS5m3tNu1FBK4w7PehnfGkcKmNYRoAg3iLAwz7yiv9x", "display": {"scaling": "fill", "background": "#000000"}, "license": "open", "duration": 300, "displayAt": "2026-10-22T00:00:00", "inlineManifest": {"id": "51953940-ebf9-57f4-952a-ec6e59c4b937", "locale": "en", "created": "2026-09-11T20:54:45Z", "metadata": {"title": "Unsupervised — MoMA — Dreams — B", "artists": [{"name": "Refik Anadol"}]}, "refVersion": "1.1.0"}}, {"id": "98d180f3-60f5-46a2-b168-fd7cd4b5fadc", "slug": "machine-hallucinations-coral-generative-ai-data-painting-b", "title": "Machine Hallucinations — Coral — Generative AI Data Painting — B", "source": "https://ipfs.feralfile.com/ipfs/bafybeifpgs2swnnnlrwpdp7eplslu5omud46cv7pbqdsxhxxcdhgc5xibm", "display": {"scaling": "fill", "background": "#000000"}, "license": "open", "duration": 300, "displayAt": "2026-10-23T00:00:00", "inlineManifest": {"id": "1d1001b7-7faa-5bc2-befc-05e08aadb2f2", "locale": "en", "created": "2026-09-11T20:54:45Z", "metadata": {"title": "Machine Hallucinations — Coral — Generative AI Data Painting — B", "artists": [{"name": "Refik Anadol"}]}, "refVersion": "1.1.0"}}, {"id": "b5f4f311-c8e6-4a04-84b5-5caecc6b6472", "slug": "unsupervised-moma-burned-moma-dreams-2", "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #2", "source": "https://ipfs.feralfile.com/ipfs/Qme21hLhjMPm5BUVYpDMKrVxrp57SGWmaQ5yH4SGorNFm6", "display": {"scaling": "fill", "background": "#000000"}, "license": "open", "duration": 300, "displayAt": "2026-10-24T00:00:00", "inlineManifest": {"id": "daab6650-de89-59a0-aa4f-02651b90e6d4", "locale": "en", "created": "2026-09-11T20:54:45Z", "metadata": {"title": "Unsupervised — MoMA — Burned — MoMA Dreams — #2", "artists": [{"name": "Refik Anadol"}]}, "refVersion": "1.1.0"}}, {"id": "da32036d-0f50-4de2-927a-13e8fce32911", "slug": "ripe-to-be-a-machine-display-3", "title": "RIPE — To Be a Machine — Display 3", "source": "https://tbam.ripe.wtf/display/node-3", "display": {"scaling": "fit", "background": "#000000"}, "license": "open", "duration": 300, "displayAt": "2026-10-25T00:00:00"}, {"id": "fc9a26ac-ee40-48d4-b896-d23668b6e368", "slug": "unsupervised-moma-dreams-c", "title": "Unsupervised — MoMA — Dreams — C", "source": "https://ipfs.feralfile.com/ipfs/QmdmL6Axtg4HGpRinkzYWKXW3QMFiuHZnrkeGmh7WoaZ8D", "display": {"scaling": "fill", "background": "#000000"}, "license": "open", "duration": 300, "displayAt": "2026-10-26T00:00:00", "inlineManifest": {"id": "7df61b32-cb22-5d16-9118-089981bff379", "locale": "en", "created": "2026-09-11T20:54:45Z", "metadata": {"title": "Unsupervised — MoMA — Dreams — C", "artists": [{"name": "Refik Anadol"}]}, "refVersion": "1.1.0"}}, {"id": "2351ef55-1751-4ca6-afef-6adf027c8f17", "slug": "machine-hallucinations-coral-generative-ai-data-painting-c", "title": "Machine Hallucinations — Coral — Generative AI Data Painting — C", "source": "https://ipfs.feralfile.com/ipfs/bafybeig5pvia7vloiltcvatqdvvybqjx56433dwrriw7ktb5rngsxoz2oa", "display": {"scaling": "fill", "background": "#000000"}, "license": "open", "duration": 300, "displayAt": "2026-10-27T00:00:00", "inlineManifest": {"id": "51cbcea6-aa6a-5768-a012-9dd9ff87d5d0", "locale": "en", "created": "2026-09-11T20:54:45Z", "metadata": {"title": "Machine Hallucinations — Coral — Generative AI Data Painting — C", "artists": [{"name": "Refik Anadol"}]}, "refVersion": "1.1.0"}}, {"id": "2f3f5699-3351-44e8-a8e1-b078362f6187", "slug": "unsupervised-moma-burned-moma-dreams-3", "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #3", "source": "https://ipfs.feralfile.com/ipfs/QmcLXBKeMPrkmPxW6kVsstHCkyKdtGoTP9HrDJqAuTyYGJ", "display": {"scaling": "fill", "background": "#000000"}, "license": "open", "duration": 300, "displayAt": "2026-10-28T00:00:00", "inlineManifest": {"id": "799cb10e-ec80-5207-9013-036f7db5035d", "locale": "en", "created": "2026-09-11T20:54:45Z", "metadata": {"title": "Unsupervised — MoMA — Burned — MoMA Dreams — #3", "artists": [{"name": "Refik Anadol"}]}, "refVersion": "1.1.0"}}, {"id": "a9c2cca8-9d90-48fb-a832-a2219106b2bf", "slug": "ripe-to-be-a-machine-display-4", "title": "RIPE — To Be a Machine — Display 4", "source": "https://tbam.ripe.wtf/display/node-4", "display": {"scaling": "fit", "background": "#000000"}, "license": "open", "duration": 300, "displayAt": "2026-10-29T00:00:00"}, {"id": "bdb49ea7-f57b-4f5e-b8a5-dd511e0297fc", "slug": "unsupervised-moma-dreams-d", "title": "Unsupervised — MoMA — Dreams — D", "source": "https://ipfs.feralfile.com/ipfs/QmasTEjPyFjAf2M3pQjRxxHKikrbqC2RFp4TSj9n2zqYWG", "display": {"scaling": "fill", "background": "#000000"}, "license": "open", "duration": 300, "displayAt": "2026-10-30T00:00:00", "inlineManifest": {"id": "dfcf6b6a-6a2f-5d53-9472-0bb490916c8a", "locale": "en", "created": "2026-09-11T20:54:45Z", "metadata": {"title": "Unsupervised — MoMA — Dreams — D", "artists": [{"name": "Refik Anadol"}]}, "refVersion": "1.1.0"}}, {"id": "26ba3a6e-6c44-4cc1-96fb-398d9e5c15a2", "slug": "machine-hallucinations-coral-generative-ai-data-painting-d", "title": "Machine Hallucinations — Coral — Generative AI Data Painting — D", "source": "https://ipfs.feralfile.com/ipfs/bafybeifgolfnh7kglevbk4ugti6tecidd6d6icolpx52mkrgbkwwygousy", "display": {"scaling": "fill", "background": "#000000"}, "license": "open", "duration": 300, "displayAt": "2026-10-31T00:00:00", "inlineManifest": {"id": "4e3ebb28-32e6-57c3-898c-07a682de9cb8", "locale": "en", "created": "2026-09-11T20:54:45Z", "metadata": {"title": "Machine Hallucinations — Coral — Generative AI Data Painting — D", "artists": [{"name": "Refik Anadol"}]}, "refVersion": "1.1.0"}}, {"id": "965bc960-c16c-4d3c-b1b0-a4ae187b8e36", "slug": "unsupervised-moma-burned-moma-dreams-4", "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #4", "source": "https://ipfs.feralfile.com/ipfs/QmSCfrsvQVnXLRVYT6HH5Ztdz97QguEKrXVCvHPexyzFZR", "display": {"scaling": "fill", "background": "#000000"}, "license": "open", "duration": 300, "displayAt": "2026-11-01T00:00:00", "inlineManifest": {"id": "a9b83cfe-afe4-5778-a07a-e3d05209500c", "locale": "en", "created": "2026-09-11T20:54:45Z", "metadata": {"title": "Unsupervised — MoMA — Burned — MoMA Dreams — #4", "artists": [{"name": "Refik Anadol"}]}, "refVersion": "1.1.0"}}, {"id": "477e90b3-ab03-4efe-87d5-0856752e76c5", "slug": "andreas-rau-inventory-numbers", "title": "ANDREAS RAU — Inventory Numbers", "source": "https://andreasrau.eu/inventory-numbers/node/", "display": {"scaling": "fit", "background": "#000000"}, "license": "open", "duration": 300, "displayAt": "2026-11-02T00:00:00"}, {"id": "e4fe9b96-ee39-4a3b-911e-169f094dbe9e", "slug": "unsupervised-moma-dreams-e", "title": "Unsupervised — MoMA — Dreams — E", "source": "https://ipfs.feralfile.com/ipfs/QmcW5usKfrEDfRED5piU5piQZHt3Zps3LfJbvvEXC13fjd", "display": {"scaling": "fill", "background": "#000000"}, "license": "open", "duration": 300, "displayAt": "2026-11-03T00:00:00", "inlineManifest": {"id": "6dd5f30e-52cf-50fd-97a4-7e1ffe6aefc3", "locale": "en", "created": "2026-09-11T20:54:45Z", "metadata": {"title": "Unsupervised — MoMA — Dreams — E", "artists": [{"name": "Refik Anadol"}]}, "refVersion": "1.1.0"}}, {"id": "57cadfec-a252-4f50-904d-f38374c50c8d", "slug": "machine-hallucinations-coral-generative-ai-data-painting-e", "title": "Machine Hallucinations — Coral — Generative AI Data Painting — E", "source": "https://ipfs.feralfile.com/ipfs/bafybeiatoahoq34ap6o3uuvo6xm5rgxx6poq224cwiagyddgrjfrvg3bqa", "display": {"scaling": "fill", "background": "#000000"}, "license": "open", "duration": 300, "displayAt": "2026-11-04T00:00:00", "inlineManifest": {"id": "f61df8d4-e19b-5bb1-903a-09b6aac35750", "locale": "en", "created": "2026-09-11T20:54:45Z", "metadata": {"title": "Machine Hallucinations — Coral — Generative AI Data Painting — E", "artists": [{"name": "Refik Anadol"}]}, "refVersion": "1.1.0"}}, {"id": "dc7595cb-1116-47a8-9438-e80216077d0a", "slug": "unsupervised-moma-burned-moma-dreams-5", "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #5", "source": "https://ipfs.feralfile.com/ipfs/Qme7ufT1rugRTr9Bu7imCkiDgsey1a4gdJXTEupL9WcQ34", "display": {"scaling": "fill", "background": "#000000"}, "license": "open", "duration": 300, "displayAt": "2026-11-05T00:00:00", "inlineManifest": {"id": "f8e062eb-a54a-5d14-a5ea-44c1c67556de", "locale": "en", "created": "2026-09-11T20:54:45Z", "metadata": {"title": "Unsupervised — MoMA — Burned — MoMA Dreams — #5", "artists": [{"name": "Refik Anadol"}]}, "refVersion": "1.1.0"}}, {"id": "a67626f2-2dbb-4cf9-a344-3c996c8ae5cb", "slug": "1-crush-dust", "title": "#1 CRUSH — dust", "source": "https://customer-vt0p8j34ppjv1kd4.cloudflarestream.com/3b8443535e9d3f1370609471a715b263/manifest/video.m3u8", "display": {"scaling": "fit", "background": "#000000"}, "license": "open", "duration": 60, "displayAt": "2026-11-06T00:00:00"}, {"id": "1da00712-7683-47b0-955c-a777aead26b0", "slug": "unsupervised-moma-dreams-f", "title": "Unsupervised — MoMA — Dreams — F", "source": "https://ipfs.feralfile.com/ipfs/QmPSdtH3rDAaFhf38K19kTfCktwcNK9SxcALgvQEZ1WwL7", "display": {"scaling": "fill", "background": "#000000"}, "license": "open", "duration": 300, "displayAt": "2026-11-07T00:00:00", "inlineManifest": {"id": "b50952b3-a5b4-54dc-b557-15a542b025ba", "locale": "en", "created": "2026-09-11T20:54:45Z", "metadata": {"title": "Unsupervised — MoMA — Dreams — F", "artists": [{"name": "Refik Anadol"}]}, "refVersion": "1.1.0"}}, {"id": "65d2258e-7c65-4836-b9c9-4eb998937ac1", "slug": "unsupervised-moma-burned-moma-dreams-6", "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #6", "source": "https://ipfs.feralfile.com/ipfs/QmUDZSeFDhynX77BhLSxCJeBUhRTrpeJfpBN7h2u6hzQid", "display": {"scaling": "fill", "background": "#000000"}, "license": "open", "duration": 300, "displayAt": "2026-11-08T00:00:00", "inlineManifest": {"id": "02732a52-4425-5bc4-b511-c60e85be9e83", "locale": "en", "created": "2026-09-11T20:54:45Z", "metadata": {"title": "Unsupervised — MoMA — Burned — MoMA Dreams — #6", "artists": [{"name": "Refik Anadol"}]}, "refVersion": "1.1.0"}}, {"id": "bd8fa0f7-a262-48ba-b620-9c1ca3de4cfc", "slug": "1-crush-ctrl-alt-death", "title": "#1 CRUSH — ctrl+alt+death", "source": "https://customer-vt0p8j34ppjv1kd4.cloudflarestream.com/9ed216cd9d5f05f71a33178835f86d09/manifest/video.m3u8", "display": {"scaling": "fit", "background": "#000000"}, "license": "open", "duration": 60, "displayAt": "2026-11-09T00:00:00"}, {"id": "b7bcca93-684d-4c13-a2dd-ecdeb6254d76", "slug": "unsupervised-moma-dreams-g", "title": "Unsupervised — MoMA — Dreams — G", "source": "https://ipfs.feralfile.com/ipfs/QmRqC28zHV8k3WiRyA9VBvRSM5neCyPytPVHfK2p5ARmFy", "display": {"scaling": "fill", "background": "#000000"}, "license": "open", "duration": 300, "displayAt": "2026-11-10T00:00:00", "inlineManifest": {"id": "a6a58c5f-ef70-59aa-8839-156555b8c488", "locale": "en", "created": "2026-09-11T20:54:45Z", "metadata": {"title": "Unsupervised — MoMA — Dreams — G", "artists": [{"name": "Refik Anadol"}]}, "refVersion": "1.1.0"}}, {"id": "2e51601d-eb61-4abf-8300-fbc8c6f51e9d", "slug": "unsupervised-moma-burned-moma-dreams-7", "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #7", "source": "https://ipfs.feralfile.com/ipfs/QmPRio1sxdWHN7p1Kc9ENvVmcMV6BKZvzkYhtTmJN1ZoPD", "display": {"scaling": "fill", "background": "#000000"}, "license": "open", "duration": 300, "displayAt": "2026-11-11T00:00:00", "inlineManifest": {"id": "ba361463-cee5-54b6-afb8-ff4e6a30c657", "locale": "en", "created": "2026-09-11T20:54:45Z", "metadata": {"title": "Unsupervised — MoMA — Burned — MoMA Dreams — #7", "artists": [{"name": "Refik Anadol"}]}, "refVersion": "1.1.0"}}, {"id": "79bb787f-2d96-4f6a-8410-7e7f49df395b", "slug": "1-crush-come-and-see", "title": "#1 CRUSH — come and see", "source": "https://customer-vt0p8j34ppjv1kd4.cloudflarestream.com/b9f8f46133c8a2a4a0102a23f6d00aec/manifest/video.m3u8", "display": {"scaling": "fit", "background": "#000000"}, "license": "open", "duration": 60, "displayAt": "2026-11-12T00:00:00"}, {"id": "288c7b95-e124-4fac-b5dc-226910572696", "slug": "unsupervised-moma-dreams-h", "title": "Unsupervised — MoMA — Dreams — H", "source": "https://ipfs.feralfile.com/ipfs/QmcPiuicCm8jrwrXDP4SL8cEXcDiDPg3xRHAYbDBCbVY3U", "display": {"scaling": "fill", "background": "#000000"}, "license": "open", "duration": 300, "displayAt": "2026-11-13T00:00:00", "inlineManifest": {"id": "44040069-89f6-51b2-be39-58f262bdcc1a", "locale": "en", "created": "2026-09-11T20:54:45Z", "metadata": {"title": "Unsupervised — MoMA — Dreams — H", "artists": [{"name": "Refik Anadol"}]}, "refVersion": "1.1.0"}}, {"id": "c3fa3ad7-76f6-4d43-afd2-8b0305b3a4e5", "slug": "unsupervised-moma-burned-moma-dreams-8", "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #8", "source": "https://ipfs.feralfile.com/ipfs/QmTrMCvj4v6FCeH4PAgxxHbLHfza5PxqvXecnX7XmQmGKF", "display": {"scaling": "fill", "background": "#000000"}, "license": "open", "duration": 300, "displayAt": "2026-11-14T00:00:00", "inlineManifest": {"id": "e2c4986c-fa8b-598d-aec0-f9094b8078ce", "locale": "en", "created": "2026-09-11T20:54:45Z", "metadata": {"title": "Unsupervised — MoMA — Burned — MoMA Dreams — #8", "artists": [{"name": "Refik Anadol"}]}, "refVersion": "1.1.0"}}, {"id": "b8a50950-6855-43ba-8c02-410d33f65c2d", "slug": "yosca-maeda-swim-in-still-days", "title": "YOSCA MAEDA — Swim in Still Days", "source": "https://customer-vt0p8j34ppjv1kd4.cloudflarestream.com/7644bdf3848811534df06b97d60107e4/manifest/video.m3u8", "display": {"loop": false, "scaling": "fit", "background": "#000000"}, "license": "open", "duration": 61.5, "displayAt": "2026-11-15T00:00:00"}], "title": "Feral File Daily (temporary recovery)", "created": "2026-09-15T09:59:53.520Z", "summary": "Temporary recovery copy of Feral File Daily. Derived from https://feed.feralfile.com/api/v1/playlists/feral-file-daily-f77fe04c on 2026-09-10. Omits Each and Every Command AP scheduled for September 10 because its oversized text preview exhausts Android WebView memory. All other entries and their schedules are unchanged. Extended on 2026-09-15 with 30 entries for October 17 through November 15, drawn round-robin from the NODE (OCCUPY) and Refik Anadol Studio (Unsupervised — MoMA — Dreams; Machine Hallucinations — Coral; Unsupervised — MoMA — Burned) playlists on the feed, item bodies unchanged.", "curators": [{"key": "did:pkh:eip155:1:0x7D5dA3DAAdf000b9e239e45a106a9F241bDaA8b0", "name": ""}], "defaults": {"display": {"loop": true, "scaling": "fill", "autoplay": true, "background": "#000000"}, "license": "open", "duration": 300}, "dpVersion": "1.1.0", "coverImage": "https://imagedelivery.net/iCRs13uicXIPOWrnuHbaKA/828f2aa7-7edd-4961-f5c7-0fbac8a9ec00/raw", "signatures": [{"ts": "2026-09-15T10:00:04.252Z", "alg": "eip191", "kid": "did:pkh:eip155:1:0x7D5dA3DAAdf000b9e239e45a106a9F241bDaA8b0", "sig": "dVMBSEVuUaqOh1ouuktW1iTTYRw0t0HhvT2DYLK-FF1eO4hQWxpibgPBIlLVmrga8INibOBGw3T8_ulkHyC0_Bs", "role": "curator", "payload_hash": "sha256:f45ffc551dfc1b7d16f221651962ee6db6b9ebea647641c5f22ef0a8a701fedb"}, {"ts": "2026-09-15T09:59:53Z", "alg": "ed25519", "kid": "did:key:z6MkiCBAPqLbkzZmLG2nAyfzJqfiEr58NDscj2ar4FJ1pP3U", "sig": "uR3n4sgdQUJ9anPMtwUIhXGQzTXZvnnRZF6FNFZ0TEzLkB-wn9LZ83fz2IZvXWelE4xi24A7hkDFvx6Z9KF7Bg", "role": "feed", "payload_hash": "sha256:f45ffc551dfc1b7d16f221651962ee6db6b9ebea647641c5f22ef0a8a701fedb"}]}
+{
+  "id": "60647c56-db21-4d14-9496-088e2ae3b48a",
+  "slug": "feral-file-daily-temporary-recovery-60647c56",
+  "items": [
+    {
+      "id": "84da82f2-9a31-4cad-993c-90c8f1c4a0ae",
+      "title": "Scrampled AP",
+      "source": "https://cdn.feralfileassets.com/previews/00f8e853-e20e-49bb-9f2f-8190507b8066/1615449076/?edition_number=0&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-08-01T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x28b51BA8B990c48CB22cB6EF0ad5415fdBA5210C",
+          "tokenId": "111189432907883705479781860609730558140985427661919345637476715406273466581241",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "efe9a691-e7d7-4c82-bd89-7480dc30a499",
+      "title": "dada data AP",
+      "source": "https://cdn.feralfileassets.com/previews/07c766f0-edc4-45fd-be50-83f89228b08c/1615370392/?edition_number=0&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-08-02T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x28b51BA8B990c48CB22cB6EF0ad5415fdBA5210C",
+          "tokenId": "53850398982106570267917421068933678215838025172652046814035972200709896037619",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "ad576918-f564-4518-bf8a-6db2ff4e9648",
+      "title": "Transparent Grit AP",
+      "source": "https://cdn.feralfileassets.com/previews/2a727b17-7890-4464-913d-3fe5ad2af4ae/1615474528/?edition_number=0&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-08-03T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x28b51BA8B990c48CB22cB6EF0ad5415fdBA5210C",
+          "tokenId": "64490119310938983285306696386755133646434567552627492079611317320066764665822",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "37345ecf-7c25-483c-9881-6c30ec316a63",
+      "title": "1DE94 AP",
+      "source": "https://cdn.feralfileassets.com/previews/1f060e42-3437-444c-b823-a8b8532c449c/1615550075/?edition_number=0&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-08-04T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x28b51BA8B990c48CB22cB6EF0ad5415fdBA5210C",
+          "tokenId": "56106112984270038917905828064139003773693484334495013411603562382354856816828",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "bf478f15-c5a2-414d-ac05-49d5abc2bedb",
+      "title": "Arrels AP",
+      "source": "https://cdn.feralfileassets.com/previews/43c29566-9fad-42ce-aab9-1c4947164d94/1615728457/?edition_number=0&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-08-05T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x28b51BA8B990c48CB22cB6EF0ad5415fdBA5210C",
+          "tokenId": "59708377447550061117940200307772073115750811538487998108113477949081946656826",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "e48453db-bb7e-4fba-98a5-9adb57badbb4",
+      "title": "uneasy dream #1",
+      "source": "https://cdn.feralfileassets.com/previews/9983bf66-380e-4af3-bee9-237c492f18a0/1615757415/?edition_number=1&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-08-06T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x28b51BA8B990c48CB22cB6EF0ad5415fdBA5210C",
+          "tokenId": "101203243301117787559401599223798510155457323902733064063026283969832858934880",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "00702673-84ad-4be5-a615-d15699bfaa4c",
+      "title": "can I go where you go? AP",
+      "source": "https://cdn.feralfileassets.com/previews/69518c54-2bc5-4b90-b606-675529c7593d/1615845070/?edition_number=0&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-08-07T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x28b51BA8B990c48CB22cB6EF0ad5415fdBA5210C",
+          "tokenId": "81364566765837085577860824876328324342986698332133339997943493484390163948634",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "6ee8da0d-45cd-4b13-8b07-fc4dc8a70238",
+      "title": "Lamia AP",
+      "source": "https://cdn.feralfileassets.com/previews/33e55482-5dac-40b8-972e-750c374d69bb/1615652677/?edition_number=0&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-08-08T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x28b51BA8B990c48CB22cB6EF0ad5415fdBA5210C",
+          "tokenId": "82162346596283144564966583883145667011953207418372457382158238642223100810926",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "c8887d5d-01d7-4df6-a1bb-a335d4e9bddd",
+      "title": "enchanting luxuriance #1",
+      "source": "https://cdn.feralfileassets.com/previews/5af4af6f-1e6b-4e45-95db-7b4de60fe0ca/1615757683/?edition_number=1&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-08-09T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x28b51BA8B990c48CB22cB6EF0ad5415fdBA5210C",
+          "tokenId": "13817206977692934950913675317980862042943036316936798729844259854918098451891",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "c89c7faf-d124-4c13-bb19-073e21a7f059",
+      "title": "Shimmer AP",
+      "source": "https://cdn.feralfileassets.com/previews/28cad12d-50f2-4d82-a77d-1284cf934b8c/1615815656/?edition_number=0&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-08-10T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x28b51BA8B990c48CB22cB6EF0ad5415fdBA5210C",
+          "tokenId": "12686393674845874925129035513704534169549355780905676792985114895836083713054",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "606447d4-1b4a-4332-8f6f-0b57659d9bbf",
+      "title": "Kiki.object AP",
+      "source": "https://cdn.feralfileassets.com/previews/adc4221c-4f00-4193-ac82-c4d9b1a0b681/1620671843/?edition_number=0&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-08-11T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0xaa02CC02F4531Ee75d1b78Cb5A155d4F3B54f830",
+          "tokenId": "96771943360785186741996452302073966236579300824111140539788543630792641248244",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "dcb79c27-b7c9-4438-86fe-afb7ab2a93ba",
+      "title": "peep-o-rama #1",
+      "source": "https://cdn.feralfileassets.com/previews/6bcc9b62-0ca3-4fdc-8232-0a3f2d4adf13/1620666173/?edition_number=1&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-08-12T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0xaa02CC02F4531Ee75d1b78Cb5A155d4F3B54f830",
+          "tokenId": "114970431608051395943569876850935771953364586808023858895883676728184077500171",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "c33ad57c-4bb6-4473-bfa1-e6dbd13c5245",
+      "title": "The Mystery [v5-dv1]  AP",
+      "source": "https://cdn.feralfileassets.com/previews/2a57c29f-fa5b-440d-8dee-2d58cdb9238c/1620669376/?edition_number=0&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-08-13T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0xaa02CC02F4531Ee75d1b78Cb5A155d4F3B54f830",
+          "tokenId": "81098335648093680823259892135140949280760206716406137867581119940294251436938",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "c496a92c-5b31-40fb-836c-bf55eb5b91c5",
+      "title": "Blue Veil AP",
+      "source": "https://cdn.feralfileassets.com/previews/c974b77f-3734-4952-9cea-1dcd591cc48d/1624186582/compressed.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-08-14T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x979316F5b3f3d8db956Af519553c853525A5b1Af",
+          "tokenId": "112327165864328605214780140867906700972042550799136203077961123286011617949745",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "822b95d4-5e23-474e-a241-e22e197ddb04",
+      "title": "Spectrality (from The Divers, IX) #1",
+      "source": "https://cdn.feralfileassets.com/previews/3a9f6d14-d53d-4d5c-b55a-f0e5793d5d0e/1620350770/?edition_number=1&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-08-15T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0xaa02CC02F4531Ee75d1b78Cb5A155d4F3B54f830",
+          "tokenId": "69822369579579992440644516414785738093541892787964403178330236084957086484278",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "64e3aa80-20ec-459a-aa8c-2e50e497eacf",
+      "title": "Slipstream 001 AP",
+      "source": "https://cdn.feralfileassets.com/previews/e9aab828-96ae-4d16-b155-6bb9fded9f34/1620621299/compressed.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-08-16T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0xaa02CC02F4531Ee75d1b78Cb5A155d4F3B54f830",
+          "tokenId": "86097417832866893814481914419505665823253627313598434259730738896504147347536",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "26377e93-eed2-41ac-8d2a-80a84c3675ed",
+      "title": "Earmark #1",
+      "source": "https://cdn.feralfileassets.com/previews/7764ae91-0392-48fb-b68c-796d701bed08/1620416013/?edition_number=1&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-08-17T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0xaa02CC02F4531Ee75d1b78Cb5A155d4F3B54f830",
+          "tokenId": "78546631552134914423968274408176321960666687886495895645569015375081417961802",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "70a8cabd-7700-47e0-b916-e98141746092",
+      "title": "Mutant Bagua #1",
+      "source": "https://cdn.feralfileassets.com/previews/89c348c1-6e78-4e00-ac3f-f58c9e732731/1624234006/?edition_number=1&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-08-18T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x979316F5b3f3d8db956Af519553c853525A5b1Af",
+          "tokenId": "60376207215736547451168424924260687305243902308116219208599052892200982633699",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "caae2dfa-6ee1-4859-87ee-a5b030aa60dd",
+      "title": "D. Flagellum #1",
+      "source": "https://cdn.feralfileassets.com/previews/c40d0e81-c8dd-44a3-9fc8-2caa36101516/1624041254/compressed.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-08-19T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x979316F5b3f3d8db956Af519553c853525A5b1Af",
+          "tokenId": "24464211475253544142247344694917082453292871811282922939810423860461543911074",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "b6aa495a-cdb4-44d5-bcfb-24eff7e08fd5",
+      "title": "Rose AP",
+      "source": "https://cdn.feralfileassets.com/previews/b3dacae7-dcc3-40e1-9dd4-9e2047398c01/1624255151/compressed.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-08-20T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x979316F5b3f3d8db956Af519553c853525A5b1Af",
+          "tokenId": "61597698234799203345339339493550343239959538565077715461614059946090805630889",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "84a3184f-7128-41f5-aa5d-66ce912208a4",
+      "title": "Forest Transmission AP",
+      "source": "https://cdn.feralfileassets.com/previews/48f6b892-d3aa-4eae-87db-040e195e00a5/1624340822/compressed.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-08-21T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x979316F5b3f3d8db956Af519553c853525A5b1Af",
+          "tokenId": "110114752152540371887409529388929910022808799500120602240695433637723919708647",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "44da0748-a031-49f3-b56c-7dcc557d953f",
+      "title": "Temple Lily AP",
+      "source": "https://cdn.feralfileassets.com/previews/ce7c5624-af01-4a1d-ad77-eee51cb54327/1624200329/compressed.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-08-22T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x979316F5b3f3d8db956Af519553c853525A5b1Af",
+          "tokenId": "52890545178984107233010252335843901677733841828576548989562413436929399359700",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "09fc2da9-4ae8-422c-a537-548c2f98e4a6",
+      "title": "Caylx #1",
+      "source": "https://cdn.feralfileassets.com/previews/50aa02eb-dccf-4003-99a2-69a1f62cb337/1624343623/compressed.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-08-23T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x979316F5b3f3d8db956Af519553c853525A5b1Af",
+          "tokenId": "75042946480313672171500136693219929921605198490900503320741478797598186727852",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "42d3f106-ad5f-4683-b0ba-b76dac615d36",
+      "title": "COUNT ZERO FOUR AP",
+      "source": "https://cdn.feralfileassets.com/previews/1b205395-6654-4174-b170-45c82866270b/1624043512/?edition_number=0&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-08-24T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x979316F5b3f3d8db956Af519553c853525A5b1Af",
+          "tokenId": "165325811143305924095244232836109005706401101678251165564751721130722506624",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "ec7370b1-8738-4b00-8758-eebfadc4af29",
+      "title": "The Shredded Hologram Rose AP",
+      "source": "https://cdn.feralfileassets.com/previews/6053b698-2016-4c05-9353-6941635c1609/1624467464/compressed.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-08-25T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x979316F5b3f3d8db956Af519553c853525A5b1Af",
+          "tokenId": "80293004185993315229961265750178126430939810844219749205334856951927038992852",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "24512182-d153-4674-847c-4cdf6fb10971",
+      "title": "Floralia II #1",
+      "source": "https://cdn.feralfileassets.com/previews/ca471793-baf8-43db-bf1a-b811f4608297/1624296713/compressed.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-08-26T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x979316F5b3f3d8db956Af519553c853525A5b1Af",
+          "tokenId": "90030517998886336964182753065636157373955844525653880512706154948462778305032",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "f49707d1-e7e8-4f08-93d2-ab16996c4e0d",
+      "title": "Plants are everywhere you can’t see them AP",
+      "source": "https://cdn.feralfileassets.com/previews/685f39aa-f9ca-4bfd-84af-d69ad3f8b2c3/1624118288/compressed.png",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-08-27T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x979316F5b3f3d8db956Af519553c853525A5b1Af",
+          "tokenId": "11099514349916357724051036428569677406815568142134691321232943996482542628401",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "bb95b11d-c161-467e-bb3a-24ba57d7c308",
+      "title": "The One Who Lived Yesterday #3",
+      "source": "https://cdn.feralfileassets.com/previews/78850fcd-afca-4757-a9c6-9c847cb3c49d/1627351315/compressed.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-08-28T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x6E906B2E355294A6aeCD6B4F75816Eda9F703dda",
+          "tokenId": "22657993772082865768605623542379465543407933048643732369983789635191122852547",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "9a1e1c16-da11-4ec2-a16a-92757c9bf30a",
+      "title": "Abstract Oracle Miner 0009328437 AP",
+      "source": "https://cdn.feralfileassets.com/previews/252527ee-2232-45e0-9ead-27379ff26219/1627998769/?edition_number=0&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-08-29T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x6E906B2E355294A6aeCD6B4F75816Eda9F703dda",
+          "tokenId": "66815841292746238875369607413359715929595849345785499493666443122331489014360",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "95897613-922a-4d48-8a6a-6bd26f4a02f6",
+      "title": "E-dream: We’ll stay, forever, in this way (2020 selected) #2",
+      "source": "https://cdn.feralfileassets.com/previews/231fa61b-eb94-40d7-9a5c-0d5c7e94f1ed/1627666801/compressed.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-08-30T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x6E906B2E355294A6aeCD6B4F75816Eda9F703dda",
+          "tokenId": "29194041702925236744353945193014693578095980000033913575374734974124390097261",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "fee31b21-b571-4bb9-b673-f215e2820b46",
+      "title": "Free Fall Study III AP",
+      "source": "https://cdn.feralfileassets.com/previews/06dccbad-8fee-4c3c-934a-7eb45bd0b9d1/1627392674/compressed.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-08-31T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x6E906B2E355294A6aeCD6B4F75816Eda9F703dda",
+          "tokenId": "99133640894422675116374717028969564302417114830010506430634523015085339716874",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "67cfdfd6-5a80-4a24-829a-49cbb936aac6",
+      "title": "Satellite #3",
+      "source": "https://cdn.feralfileassets.com/previews/5472181b-3d22-436b-88fb-bb3e07fa073d/1627539250/compressed.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-09-01T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x6E906B2E355294A6aeCD6B4F75816Eda9F703dda",
+          "tokenId": "100728851220516404165832874942029781290252352537800379098449139279257748909241",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "3256878f-8ab9-4eed-93b0-08c9794e146a",
+      "title": "In endless flow of absolute truth, there are innumerable relative conjecture. AP",
+      "source": "https://cdn.feralfileassets.com/previews/2d1f1330-d66a-4e9e-afd6-c17e5e55f2c4/1627893099/?edition_number=0&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-09-02T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x6E906B2E355294A6aeCD6B4F75816Eda9F703dda",
+          "tokenId": "51821227972396260215122454554483903868091982780205586118657621413642909939812",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "609e442c-2fdb-4a75-8b31-a795259a219e",
+      "title": "Steering Pixels #3",
+      "source": "https://cdn.feralfileassets.com/previews/1703b594-d76d-49a5-a6c8-ce04f85550ed/1627323098/compressed.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-09-03T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x6E906B2E355294A6aeCD6B4F75816Eda9F703dda",
+          "tokenId": "84244924611474804795241786574817959153681137312793854041833484292696191893627",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "5430ba65-568b-473b-932e-0980fb0753f8",
+      "title": "What do you want me to say? AP",
+      "source": "https://cdn.feralfileassets.com/previews/f2db8c40-a2fb-4a93-be03-75ce3b3133f3/1630436182/?edition_number=0&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-09-04T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x1d5bdC75918600541C115b74b81a404C9E4AF7D4",
+          "tokenId": "12840682995913677806001798836709465389866153646272085769634026756001512030506",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "59e1bb10-a6fb-4196-8566-30ed81d031e3",
+      "title": "Just in case #1",
+      "source": "https://cdn.feralfileassets.com/previews/91a3ea94-f606-40a9-9e39-611bdcb46fdd/1629977054/preview.gif",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-09-05T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x1d5bdC75918600541C115b74b81a404C9E4AF7D4",
+          "tokenId": "65701061192416629647091860341813823518299396124148428848093552523919884889905",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "4c8c1258-f9ea-429f-afc3-c9124f057409",
+      "title": "Ultimate Solvers AP",
+      "source": "https://cdn.feralfileassets.com/previews/51a53d4e-c60f-4582-8edc-c9998ed40a24/1629968561/?edition_number=0&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-09-06T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x1d5bdC75918600541C115b74b81a404C9E4AF7D4",
+          "tokenId": "13843231308003667629763411009854807364049237540643953179739929600368051091847",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "51ff8930-e94b-4535-92fd-7e877b3c51e9",
+      "title": "24/7 AP",
+      "source": "https://cdn.feralfileassets.com/previews/cf435a8a-c4df-4606-9acc-809217ab367b/1630268462/preview.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-09-07T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x1d5bdC75918600541C115b74b81a404C9E4AF7D4",
+          "tokenId": "49680436437337850500957598925994160948465521154464009609768089907101356076688",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "7558a8cb-3010-461c-92c5-b2899e3a1779",
+      "title": "Emergence AP",
+      "source": "https://cdn.feralfileassets.com/previews/a1b6689f-5236-471a-97a6-70ea0879dd42/1630583755/?edition_number=0&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-09-08T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x1d5bdC75918600541C115b74b81a404C9E4AF7D4",
+          "tokenId": "29675870761587803123850255772014231519473951568011717151584536753918684144705",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "1f4a1bb2-1534-4e02-bb5a-64f030a04884",
+      "title": "Predictive Art Bot AP",
+      "source": "https://cdn.feralfileassets.com/previews/47db4cae-c786-4bb3-8735-e932ab81ed7f/1630258818/?edition_number=0&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-09-09T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x1d5bdC75918600541C115b74b81a404C9E4AF7D4",
+          "tokenId": "72831279254957510195555145377250501155718231347682912715173209101067739974718",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "eceb6a2b-dd4f-42a6-96b1-6ab039d0e3c1",
+      "title": "Minos AP",
+      "source": "https://cdn.feralfileassets.com/previews/6e0b8c01-5b11-4ceb-b40a-c1d8efa4a66a/1629980523/?edition_number=0&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-09-11T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x1d5bdC75918600541C115b74b81a404C9E4AF7D4",
+          "tokenId": "71476444588005777011178902025495148361331893381891419132241003166976552058050",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "1ecdb6f1-4e9a-4c20-b3d4-16343ae6f38b",
+      "title": "Sigils #1",
+      "source": "https://cdn.feralfileassets.com/previews/746f680d-9a6c-4125-9486-3271bdbe7e6e/1630315151/preview.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-09-12T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x1d5bdC75918600541C115b74b81a404C9E4AF7D4",
+          "tokenId": "70585773858598475291209973498859065267624231135253536894691595122958978116706",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "08c9b829-d5fb-42cc-be09-4364393ed907",
+      "title": "Neonumens #1",
+      "source": "https://cdn.feralfileassets.com/previews/fe63cbf2-7377-4497-919b-853dd22c63e7/1629999287/preview.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-09-13T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x1d5bdC75918600541C115b74b81a404C9E4AF7D4",
+          "tokenId": "88065805420627234584524446777167433688187033905063730310714169570369193825419",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "837c6ef0-7c91-48fd-bd4b-e29489b993bf",
+      "title": "Are Smart Machines Alive? AP",
+      "source": "https://cdn.feralfileassets.com/previews/4f3fe912-d226-48b1-8120-56566426d110/1630004919/preview.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-09-14T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x1d5bdC75918600541C115b74b81a404C9E4AF7D4",
+          "tokenId": "56118370897972180535083884653105777704508589841726951274442774583420870303320",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "5ac80227-d6b8-4ac8-b45a-6e155cf3f01c",
+      "title": "Signal of the World AP",
+      "source": "https://cdn.feralfileassets.com/previews/496bd7c1-d524-44fd-b8d6-9eb03fb9f320/1629962649/preview.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-09-15T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x1d5bdC75918600541C115b74b81a404C9E4AF7D4",
+          "tokenId": "114134603993208105336569614100180464145718343141944688776188492901127728944492",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "eb2532d9-cf58-46de-8c14-31eb13824fa9",
+      "title": "3 ORBS AP",
+      "source": "https://cdn.feralfileassets.com/previews/ebe3df0f-f765-410e-b2fa-edd39dcf5369/1631817212/?edition_number=0&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-09-16T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0xE5163c74fFE6563D75d750E5d767122500a1c337",
+          "tokenId": "1982142444428207150540790152954285579034622660492491181160941165640986713537",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "180244c6-e0c1-4aca-9ec8-43bd5cc3e453",
+      "title": "4 ORBS AP",
+      "source": "https://cdn.feralfileassets.com/previews/6862d0b4-252f-469d-8327-c0d79f8b4a67/1631208788/?edition_number=0&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-09-17T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0xE5163c74fFE6563D75d750E5d767122500a1c337",
+          "tokenId": "91855458526945298708150706222724755710777598255848949820121191342597544813890",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "2c5139dc-097a-4e30-a0b3-208b075541f0",
+      "title": "Mirror Arm AP",
+      "source": "https://cdn.feralfileassets.com/previews/f6d4f5f8-7f31-48c9-871e-b2cf4d4270aa/1631260875/?edition_number=0&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-09-18T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0xE5163c74fFE6563D75d750E5d767122500a1c337",
+          "tokenId": "107758526672441256891277994701277580194739367183403564015665252403427263518758",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "b441fa45-cc7b-4dfc-88f4-875aab997b83",
+      "title": "Hatless AP",
+      "source": "https://cdn.feralfileassets.com/previews/4f6816b5-3d84-4715-b025-c8a837030b49/1631260821/?edition_number=0&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-09-19T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0xE5163c74fFE6563D75d750E5d767122500a1c337",
+          "tokenId": "23539813904923401488731829639056055063633307823941105936385429154970558232802",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "87fff944-59b5-40ed-9cf5-2f8eaffb1b2e",
+      "title": "k.f0 AP",
+      "source": "https://cdn.feralfileassets.com/previews/26433d62-bb36-46f8-bc8e-ed7214967cc2/1631214206/?edition_number=0&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-09-20T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0xE5163c74fFE6563D75d750E5d767122500a1c337",
+          "tokenId": "47896422095579711099185835491703333438573086439509639910123685376750831346255",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "dea90767-4120-4dd3-9320-e6368e73f45f",
+      "title": "Picnic 001 AP",
+      "source": "https://cdn.feralfileassets.com/previews/f548cb77-a829-42ea-b097-3b54603a0d8f/1631287550/preview.gif",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-09-21T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0xE5163c74fFE6563D75d750E5d767122500a1c337",
+          "tokenId": "109306892524557668562611376466566141821456642481863638052963541895447922445942",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "f462a836-c51a-41ad-803f-5cb455eb4c40",
+      "title": "POST 1 AP",
+      "source": "https://cdn.feralfileassets.com/previews/5d7e9132-059f-44d9-a6a9-3c8a9b688965/1632387593/?edition_number=0&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-09-22T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0xE5163c74fFE6563D75d750E5d767122500a1c337",
+          "tokenId": "49343618154684871155946424463360241913698617254930957613875244917599572983619",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "aedc213c-93ec-498b-9911-c47e6c4e7b74",
+      "title": "Picnic 002 AP",
+      "source": "https://cdn.feralfileassets.com/previews/af4fe2af-67bb-4440-9885-621d5c3bf965/1631287161/preview.gif",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-09-23T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0xE5163c74fFE6563D75d750E5d767122500a1c337",
+          "tokenId": "4768033689500491239571182329245737464774884961374789940985316154356260180914",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "6859b05e-2dfd-4535-b487-5d70e33e61bb",
+      "title": "POST 2 AP",
+      "source": "https://cdn.feralfileassets.com/previews/18125d2a-d424-496f-9949-9c3e625f114e/1632387574/?edition_number=0&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-09-24T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0xE5163c74fFE6563D75d750E5d767122500a1c337",
+          "tokenId": "38622232778044864544569085641792553318552889992573744648587777959046129258035",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "ecdaeee9-4b2c-45a7-b450-08eed8d8e57a",
+      "title": "k.a9 AP",
+      "source": "https://cdn.feralfileassets.com/previews/3620d7ce-0677-4c59-be8e-0638632dc43b/1631214470/?edition_number=0&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-09-25T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0xE5163c74fFE6563D75d750E5d767122500a1c337",
+          "tokenId": "43792463560781556265569689858463143429649243267448038556726932312834463981159",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "70156daa-b47f-4382-b10b-ef21b1f559a9",
+      "title": "There once was a jellyfish ... AP",
+      "source": "https://cdn.feralfileassets.com/previews/7462201d-7fd6-4ee9-83f6-4e4b35c39de1/1632297823/preview.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-09-26T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "tezos",
+          "address": "KT1Q3GCiWndMUWBjeUt12crnDFF9PFohhfmZ",
+          "tokenId": "48885253734310901996659558313632398996651385749398413959931495410500490485700",
+          "standard": "fa2"
+        }
+      }
+    },
+    {
+      "id": "010e5c0a-d848-4ba2-90ca-bbaa9cdbd200",
+      "title": "Fragments:30.2051 N, 90.1121 W AP",
+      "source": "https://cdn.feralfileassets.com/previews/e1b87ae6-d871-4e70-8df1-f9cd7dbd09f9/1632751432/preview.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-09-27T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "tezos",
+          "address": "KT1Q3GCiWndMUWBjeUt12crnDFF9PFohhfmZ",
+          "tokenId": "32099334805983447258866551994105878902360061489704626123683001823138466386161",
+          "standard": "fa2"
+        }
+      }
+    },
+    {
+      "id": "d5ec5d78-d999-4c24-a570-1d02251bd336",
+      "title": "Vague Recollection AP",
+      "source": "https://cdn.feralfileassets.com/previews/d7f80e10-a227-4272-bd58-2da08703d460/1632732499/?edition_number=0&blockchain=bitmark",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-09-28T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "tezos",
+          "address": "KT1Q3GCiWndMUWBjeUt12crnDFF9PFohhfmZ",
+          "tokenId": "94186457776527967053970378473105398943926084681415948811694628567454162496662",
+          "standard": "fa2"
+        }
+      }
+    },
+    {
+      "id": "36a4c7f5-bf0c-4aa5-a297-487083fc548d",
+      "title": "Contemplating Motion AP",
+      "source": "https://cdn.feralfileassets.com/previews/6ceb34ad-a8e2-40af-ada7-121a778ec352/1632752834/preview.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-09-29T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x29C9E04E05c5d261836e458BC5B779a7dE3C58D6",
+          "tokenId": "39268874706162972973073452756546436351555450496488933620292243754276447986671",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "44f5a316-8b34-4810-80a0-ef2c682c6006",
+      "title": "Solstice Sky Dream AP",
+      "source": "https://cdn.feralfileassets.com/previews/f27c6217-e4c0-4f82-b8b7-d38c8653b0dd/1632474304/preview.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-09-30T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x29C9E04E05c5d261836e458BC5B779a7dE3C58D6",
+          "tokenId": "66768636378376097047702060324449050956931912246977172022478401746681657931493",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "0550bda6-d1b9-4e70-91df-5036dbc8cd3e",
+      "title": "Pixie AP",
+      "source": "https://cdn.feralfileassets.com/previews/8718cfaf-3a37-4112-bc66-c3654d2fb302/1632771101/preview.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-01T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "tezos",
+          "address": "KT1Q3GCiWndMUWBjeUt12crnDFF9PFohhfmZ",
+          "tokenId": "79568488134303915841900859844030126604594604746041452671933316381247346860398",
+          "standard": "fa2"
+        }
+      }
+    },
+    {
+      "id": "a6b3fe78-fae3-4152-a0fe-703ee59716a6",
+      "title": "Fragments of Self AP",
+      "source": "https://cdn.feralfileassets.com/previews/83c776c3-262e-4f1d-95f9-97f6d2ccb7cd/1632574381/preview.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-02T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "tezos",
+          "address": "KT1Q3GCiWndMUWBjeUt12crnDFF9PFohhfmZ",
+          "tokenId": "80692239583680033368815605110691333128786508257847812065080211904733049634598",
+          "standard": "fa2"
+        }
+      }
+    },
+    {
+      "id": "288eeffe-9964-46b3-bfd6-8fb9e5bdd424",
+      "title": "Venuses (quantum bodies watched by Open Pose algorithm) #1",
+      "source": "https://cdn.feralfileassets.com/previews/4a58d6e4-d014-4ea3-9837-f7892fd48157/1632512625/preview.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-03T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "tezos",
+          "address": "KT1Q3GCiWndMUWBjeUt12crnDFF9PFohhfmZ",
+          "tokenId": "75747731665689965407902221511726863463013349916962479906701106709260396584884",
+          "standard": "fa2"
+        }
+      }
+    },
+    {
+      "id": "cae01aa0-fe09-47d3-93f1-e92015304ad2",
+      "title": "Strange Fruit AP",
+      "source": "https://cdn.feralfileassets.com/previews/063ccfde-866d-4dbd-95ed-5213336cfbca/1632743139/preview.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-04T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x29C9E04E05c5d261836e458BC5B779a7dE3C58D6",
+          "tokenId": "105407197227404785108315597710184983582473381433138657116787723337294696803947",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "e3e1b3ff-ea7c-4794-a424-99687ca6616f",
+      "title": "Neighbors #1",
+      "source": "https://cdn.feralfileassets.com/previews/d26432cc-df0d-42c3-94db-098332b438b6/1632998045/preview.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-05T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "tezos",
+          "address": "KT1Q3GCiWndMUWBjeUt12crnDFF9PFohhfmZ",
+          "tokenId": "64341266089255334162810533713095127882920054599483430324509055910570834329756",
+          "standard": "fa2"
+        }
+      }
+    },
+    {
+      "id": "6e96df9e-68a7-4fd1-aae5-58e437c39511",
+      "title": "Leaves of Manifold, of Red and Gold #1",
+      "source": "https://cdn.feralfileassets.com/previews/92a0c691-c281-4a93-ae1f-48d5eacd0ee3/1632824880/preview.gif",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-06T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x29C9E04E05c5d261836e458BC5B779a7dE3C58D6",
+          "tokenId": "44454718090882994093426117371750302173177614072300164086807993220170969920394",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "0a705d7a-54eb-42be-939d-796054c67f18",
+      "title": "CUSP - Marsh Birds AP",
+      "source": "https://cdn.feralfileassets.com/previews/3224d677-f521-415d-86c0-1f2f9c47abef/1632440301/preview.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-07T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x29C9E04E05c5d261836e458BC5B779a7dE3C58D6",
+          "tokenId": "39572472606789710047615029395828155353486011854843958752751124670424911688553",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "93999a6b-8c6d-4cb0-adc0-305798f51a39",
+      "title": "Unsupervised — Burned — Data Universe — MoMA — 2D #1",
+      "source": "https://cdn.feralfileassets.com/previews/f8d29291-cac7-480b-aacd-05de41d1a1ae/1684319165/preview.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-08T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x559fE9Fe5E2DAE7A7ae5766457096E6d7C647A46",
+          "tokenId": "89970703136813096194386978740263577426008641841447607440390967327466404095866",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "9306d0c5-6ff3-418d-831f-dd89d1acc53c",
+      "title": "Unsupervised — Burned — Data Universe — MoMA — 3D #1",
+      "source": "https://cdn.feralfileassets.com/previews/aac17bb5-3377-4e4d-92bd-3767881bfba7/1684319207/preview.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-09T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0xc490888997d65df70FE69f33BA3bf7C8D12989CF",
+          "tokenId": "44698415037170023611077639980855462881371582800501602828429077410131151838073",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "66bf0889-92fe-4437-90b6-01c7ded42085",
+      "title": "Unsupervised — Burned — Machine Hallucinations — MoMA Dreams #1",
+      "source": "https://cdn.feralfileassets.com/previews/72b1a11a-16da-4550-aa2c-7f197a219ae8/1684311810/_unique-previews/0",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-10T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x9D6c8e4B348999A69eE24285cd81226f4628e8F8",
+          "tokenId": "72683907607289245948376378937398657013536021870223758380494556672121413187169",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "e4a16f5b-97fa-4087-a677-75d349b77976",
+      "title": "Unsupervised — Machine Hallucinations — MoMA",
+      "source": "https://cdn.feralfileassets.com/previews/29b720ff-fcbf-4467-a53d-e79a90ad0d60/1637059159/preview.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-11T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x7a15b36cB834AeA88553De69077D3777460d73Ac",
+          "tokenId": "66965029230094245694785985847399663964803402403207832947552806358116789198961",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "1127d080-bee8-4cfc-910f-43ce779a3de2",
+      "title": "Unsupervised — Machine Hallucinations — MoMA Generative Study 1",
+      "source": "https://cdn.feralfileassets.com/previews/96f1663b-5216-4758-aa7f-3a70e6d9d45b/1637052748/preview.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-12T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x7a15b36cB834AeA88553De69077D3777460d73Ac",
+          "tokenId": "68717547499709147316094146770796383443925587785864914584526615797593766025991",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "1d5015a8-f6ec-4aca-b8e7-5682de425ecd",
+      "title": "Unsupervised — Machine Hallucinations — MoMA Fluid Dreams",
+      "source": "https://cdn.feralfileassets.com/previews/d6e1e0f1-7a9d-46f1-a691-bf0604e755b5/1637053622/preview.mp4",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-13T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x7a15b36cB834AeA88553De69077D3777460d73Ac",
+          "tokenId": "96186361738988730929202118688262424103444309134708770864876998274999853867500",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "366419c1-d03c-4be1-a0bf-88d1516a7221",
+      "title": "Unsupervised — Machine Hallucinations — MoMA Dreams — A AP",
+      "source": "https://cdn.feralfileassets.com/previews/d35cdb38-917f-42f3-9914-e276dc5f0ded/1637045388/preview.jpg",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-14T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x7a15b36cB834AeA88553De69077D3777460d73Ac",
+          "tokenId": "9654437293614983878447008954651574738102085915959744418992085055843510330527",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "6b3c512e-1c22-4739-b9ba-a94d9860d78e",
+      "title": "Unsupervised — Machine Hallucinations — MoMA Dreams — B AP",
+      "source": "https://cdn.feralfileassets.com/previews/821dd86a-8764-441f-af58-95c857a7c4d3/1637046150/preview.jpg",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-15T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x7a15b36cB834AeA88553De69077D3777460d73Ac",
+          "tokenId": "54682151706815913185894207919983797355021603287101182631346106136630027792894",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "f7a7290e-04ef-4016-abf8-8405534f1de2",
+      "title": "Unsupervised — Machine Hallucinations — MoMA Dreams — C AP",
+      "source": "https://cdn.feralfileassets.com/previews/c3b2c10b-91c6-4e2f-83bc-fcb5068e98be/1637046206/preview.jpg",
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-16T00:00:00",
+      "provenance": {
+        "type": "onChain",
+        "contract": {
+          "chain": "evm",
+          "address": "0x7a15b36cB834AeA88553De69077D3777460d73Ac",
+          "tokenId": "106246018777602716151571873331818585646615221152111297965994288240674568755515",
+          "standard": "erc721"
+        }
+      }
+    },
+    {
+      "id": "2b277a75-cecf-4095-b727-af81e694923e",
+      "slug": "ripe-to-be-a-machine-display-1",
+      "title": "RIPE — To Be a Machine — Display 1",
+      "source": "https://tbam.ripe.wtf/display/node-1",
+      "display": {
+        "scaling": "fit",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-17T00:00:00"
+    },
+    {
+      "id": "e4579f0e-307d-412a-94d3-eed41b25218c",
+      "slug": "unsupervised-moma-dreams-a",
+      "title": "Unsupervised — MoMA — Dreams — A",
+      "source": "https://ipfs.feralfile.com/ipfs/QmPWHe6vEYDcJWYSGZCy6wwpMf3Wi61uWgFE2oSuy5s5KP",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-18T00:00:00",
+      "inlineManifest": {
+        "id": "4fd5cc63-b797-543d-a48f-ab4e4bd15cbf",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Dreams — A",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "69319358-3833-4ad1-84ca-eb518891e76a",
+      "slug": "machine-hallucinations-coral-generative-ai-data-painting-a",
+      "title": "Machine Hallucinations — Coral — Generative AI Data Painting — A",
+      "source": "https://ipfs.feralfile.com/ipfs/bafybeigknz2wrdlyg64wfunrgieflllkm4nf63iiiae76wvfzhq672je74",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-19T00:00:00",
+      "inlineManifest": {
+        "id": "4e3a34be-99ed-59d6-baae-08d561cf51ca",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Machine Hallucinations — Coral — Generative AI Data Painting — A",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "97078a9e-5139-4751-a82d-96dfe30ba969",
+      "slug": "unsupervised-moma-burned-moma-dreams-1",
+      "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #1",
+      "source": "https://ipfs.feralfile.com/ipfs/QmfJmrnaWHMks3tDfrydvaHjZBsbSBdgy93ftfJHXSfdPW",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-20T00:00:00",
+      "inlineManifest": {
+        "id": "49226d44-2d5c-5092-9332-64059cebc6df",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #1",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "2ef105a2-006e-4315-8e88-dfea84e35301",
+      "slug": "ripe-to-be-a-machine-display-2",
+      "title": "RIPE — To Be a Machine — Display 2",
+      "source": "https://tbam.ripe.wtf/display/node-2",
+      "display": {
+        "scaling": "fit",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-21T00:00:00"
+    },
+    {
+      "id": "a1f8cd2d-388d-4f48-b385-250dc9dd1097",
+      "slug": "unsupervised-moma-dreams-b",
+      "title": "Unsupervised — MoMA — Dreams — B",
+      "source": "https://ipfs.feralfile.com/ipfs/QmSGS5m3tNu1FBK4w7PehnfGkcKmNYRoAg3iLAwz7yiv9x",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-22T00:00:00",
+      "inlineManifest": {
+        "id": "51953940-ebf9-57f4-952a-ec6e59c4b937",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Dreams — B",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "98d180f3-60f5-46a2-b168-fd7cd4b5fadc",
+      "slug": "machine-hallucinations-coral-generative-ai-data-painting-b",
+      "title": "Machine Hallucinations — Coral — Generative AI Data Painting — B",
+      "source": "https://ipfs.feralfile.com/ipfs/bafybeifpgs2swnnnlrwpdp7eplslu5omud46cv7pbqdsxhxxcdhgc5xibm",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-23T00:00:00",
+      "inlineManifest": {
+        "id": "1d1001b7-7faa-5bc2-befc-05e08aadb2f2",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Machine Hallucinations — Coral — Generative AI Data Painting — B",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "b5f4f311-c8e6-4a04-84b5-5caecc6b6472",
+      "slug": "unsupervised-moma-burned-moma-dreams-2",
+      "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #2",
+      "source": "https://ipfs.feralfile.com/ipfs/Qme21hLhjMPm5BUVYpDMKrVxrp57SGWmaQ5yH4SGorNFm6",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-24T00:00:00",
+      "inlineManifest": {
+        "id": "daab6650-de89-59a0-aa4f-02651b90e6d4",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #2",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "da32036d-0f50-4de2-927a-13e8fce32911",
+      "slug": "ripe-to-be-a-machine-display-3",
+      "title": "RIPE — To Be a Machine — Display 3",
+      "source": "https://tbam.ripe.wtf/display/node-3",
+      "display": {
+        "scaling": "fit",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-25T00:00:00"
+    },
+    {
+      "id": "fc9a26ac-ee40-48d4-b896-d23668b6e368",
+      "slug": "unsupervised-moma-dreams-c",
+      "title": "Unsupervised — MoMA — Dreams — C",
+      "source": "https://ipfs.feralfile.com/ipfs/QmdmL6Axtg4HGpRinkzYWKXW3QMFiuHZnrkeGmh7WoaZ8D",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-26T00:00:00",
+      "inlineManifest": {
+        "id": "7df61b32-cb22-5d16-9118-089981bff379",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Dreams — C",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "2351ef55-1751-4ca6-afef-6adf027c8f17",
+      "slug": "machine-hallucinations-coral-generative-ai-data-painting-c",
+      "title": "Machine Hallucinations — Coral — Generative AI Data Painting — C",
+      "source": "https://ipfs.feralfile.com/ipfs/bafybeig5pvia7vloiltcvatqdvvybqjx56433dwrriw7ktb5rngsxoz2oa",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-27T00:00:00",
+      "inlineManifest": {
+        "id": "51cbcea6-aa6a-5768-a012-9dd9ff87d5d0",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Machine Hallucinations — Coral — Generative AI Data Painting — C",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "2f3f5699-3351-44e8-a8e1-b078362f6187",
+      "slug": "unsupervised-moma-burned-moma-dreams-3",
+      "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #3",
+      "source": "https://ipfs.feralfile.com/ipfs/QmcLXBKeMPrkmPxW6kVsstHCkyKdtGoTP9HrDJqAuTyYGJ",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-28T00:00:00",
+      "inlineManifest": {
+        "id": "799cb10e-ec80-5207-9013-036f7db5035d",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #3",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "a9c2cca8-9d90-48fb-a832-a2219106b2bf",
+      "slug": "ripe-to-be-a-machine-display-4",
+      "title": "RIPE — To Be a Machine — Display 4",
+      "source": "https://tbam.ripe.wtf/display/node-4",
+      "display": {
+        "scaling": "fit",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-29T00:00:00"
+    },
+    {
+      "id": "bdb49ea7-f57b-4f5e-b8a5-dd511e0297fc",
+      "slug": "unsupervised-moma-dreams-d",
+      "title": "Unsupervised — MoMA — Dreams — D",
+      "source": "https://ipfs.feralfile.com/ipfs/QmasTEjPyFjAf2M3pQjRxxHKikrbqC2RFp4TSj9n2zqYWG",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-30T00:00:00",
+      "inlineManifest": {
+        "id": "dfcf6b6a-6a2f-5d53-9472-0bb490916c8a",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Dreams — D",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "26ba3a6e-6c44-4cc1-96fb-398d9e5c15a2",
+      "slug": "machine-hallucinations-coral-generative-ai-data-painting-d",
+      "title": "Machine Hallucinations — Coral — Generative AI Data Painting — D",
+      "source": "https://ipfs.feralfile.com/ipfs/bafybeifgolfnh7kglevbk4ugti6tecidd6d6icolpx52mkrgbkwwygousy",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-31T00:00:00",
+      "inlineManifest": {
+        "id": "4e3ebb28-32e6-57c3-898c-07a682de9cb8",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Machine Hallucinations — Coral — Generative AI Data Painting — D",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "965bc960-c16c-4d3c-b1b0-a4ae187b8e36",
+      "slug": "unsupervised-moma-burned-moma-dreams-4",
+      "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #4",
+      "source": "https://ipfs.feralfile.com/ipfs/QmSCfrsvQVnXLRVYT6HH5Ztdz97QguEKrXVCvHPexyzFZR",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-11-01T00:00:00",
+      "inlineManifest": {
+        "id": "a9b83cfe-afe4-5778-a07a-e3d05209500c",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #4",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "477e90b3-ab03-4efe-87d5-0856752e76c5",
+      "slug": "andreas-rau-inventory-numbers",
+      "title": "ANDREAS RAU — Inventory Numbers",
+      "source": "https://andreasrau.eu/inventory-numbers/node/",
+      "display": {
+        "scaling": "fit",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-11-02T00:00:00"
+    },
+    {
+      "id": "e4fe9b96-ee39-4a3b-911e-169f094dbe9e",
+      "slug": "unsupervised-moma-dreams-e",
+      "title": "Unsupervised — MoMA — Dreams — E",
+      "source": "https://ipfs.feralfile.com/ipfs/QmcW5usKfrEDfRED5piU5piQZHt3Zps3LfJbvvEXC13fjd",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-11-03T00:00:00",
+      "inlineManifest": {
+        "id": "6dd5f30e-52cf-50fd-97a4-7e1ffe6aefc3",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Dreams — E",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "57cadfec-a252-4f50-904d-f38374c50c8d",
+      "slug": "machine-hallucinations-coral-generative-ai-data-painting-e",
+      "title": "Machine Hallucinations — Coral — Generative AI Data Painting — E",
+      "source": "https://ipfs.feralfile.com/ipfs/bafybeiatoahoq34ap6o3uuvo6xm5rgxx6poq224cwiagyddgrjfrvg3bqa",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-11-04T00:00:00",
+      "inlineManifest": {
+        "id": "f61df8d4-e19b-5bb1-903a-09b6aac35750",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Machine Hallucinations — Coral — Generative AI Data Painting — E",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "dc7595cb-1116-47a8-9438-e80216077d0a",
+      "slug": "unsupervised-moma-burned-moma-dreams-5",
+      "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #5",
+      "source": "https://ipfs.feralfile.com/ipfs/Qme7ufT1rugRTr9Bu7imCkiDgsey1a4gdJXTEupL9WcQ34",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-11-05T00:00:00",
+      "inlineManifest": {
+        "id": "f8e062eb-a54a-5d14-a5ea-44c1c67556de",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #5",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "a67626f2-2dbb-4cf9-a344-3c996c8ae5cb",
+      "slug": "1-crush-dust",
+      "title": "#1 CRUSH — dust",
+      "source": "https://customer-vt0p8j34ppjv1kd4.cloudflarestream.com/3b8443535e9d3f1370609471a715b263/manifest/video.m3u8",
+      "display": {
+        "scaling": "fit",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 60,
+      "displayAt": "2026-11-06T00:00:00"
+    },
+    {
+      "id": "1da00712-7683-47b0-955c-a777aead26b0",
+      "slug": "unsupervised-moma-dreams-f",
+      "title": "Unsupervised — MoMA — Dreams — F",
+      "source": "https://ipfs.feralfile.com/ipfs/QmPSdtH3rDAaFhf38K19kTfCktwcNK9SxcALgvQEZ1WwL7",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-11-07T00:00:00",
+      "inlineManifest": {
+        "id": "b50952b3-a5b4-54dc-b557-15a542b025ba",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Dreams — F",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "65d2258e-7c65-4836-b9c9-4eb998937ac1",
+      "slug": "unsupervised-moma-burned-moma-dreams-6",
+      "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #6",
+      "source": "https://ipfs.feralfile.com/ipfs/QmUDZSeFDhynX77BhLSxCJeBUhRTrpeJfpBN7h2u6hzQid",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-11-08T00:00:00",
+      "inlineManifest": {
+        "id": "02732a52-4425-5bc4-b511-c60e85be9e83",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #6",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "bd8fa0f7-a262-48ba-b620-9c1ca3de4cfc",
+      "slug": "1-crush-ctrl-alt-death",
+      "title": "#1 CRUSH — ctrl+alt+death",
+      "source": "https://customer-vt0p8j34ppjv1kd4.cloudflarestream.com/9ed216cd9d5f05f71a33178835f86d09/manifest/video.m3u8",
+      "display": {
+        "scaling": "fit",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 60,
+      "displayAt": "2026-11-09T00:00:00"
+    },
+    {
+      "id": "b7bcca93-684d-4c13-a2dd-ecdeb6254d76",
+      "slug": "unsupervised-moma-dreams-g",
+      "title": "Unsupervised — MoMA — Dreams — G",
+      "source": "https://ipfs.feralfile.com/ipfs/QmRqC28zHV8k3WiRyA9VBvRSM5neCyPytPVHfK2p5ARmFy",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-11-10T00:00:00",
+      "inlineManifest": {
+        "id": "a6a58c5f-ef70-59aa-8839-156555b8c488",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Dreams — G",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "2e51601d-eb61-4abf-8300-fbc8c6f51e9d",
+      "slug": "unsupervised-moma-burned-moma-dreams-7",
+      "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #7",
+      "source": "https://ipfs.feralfile.com/ipfs/QmPRio1sxdWHN7p1Kc9ENvVmcMV6BKZvzkYhtTmJN1ZoPD",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-11-11T00:00:00",
+      "inlineManifest": {
+        "id": "ba361463-cee5-54b6-afb8-ff4e6a30c657",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #7",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "79bb787f-2d96-4f6a-8410-7e7f49df395b",
+      "slug": "1-crush-come-and-see",
+      "title": "#1 CRUSH — come and see",
+      "source": "https://customer-vt0p8j34ppjv1kd4.cloudflarestream.com/b9f8f46133c8a2a4a0102a23f6d00aec/manifest/video.m3u8",
+      "display": {
+        "scaling": "fit",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 60,
+      "displayAt": "2026-11-12T00:00:00"
+    },
+    {
+      "id": "288c7b95-e124-4fac-b5dc-226910572696",
+      "slug": "unsupervised-moma-dreams-h",
+      "title": "Unsupervised — MoMA — Dreams — H",
+      "source": "https://ipfs.feralfile.com/ipfs/QmcPiuicCm8jrwrXDP4SL8cEXcDiDPg3xRHAYbDBCbVY3U",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-11-13T00:00:00",
+      "inlineManifest": {
+        "id": "44040069-89f6-51b2-be39-58f262bdcc1a",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Dreams — H",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "c3fa3ad7-76f6-4d43-afd2-8b0305b3a4e5",
+      "slug": "unsupervised-moma-burned-moma-dreams-8",
+      "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #8",
+      "source": "https://ipfs.feralfile.com/ipfs/QmTrMCvj4v6FCeH4PAgxxHbLHfza5PxqvXecnX7XmQmGKF",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-11-14T00:00:00",
+      "inlineManifest": {
+        "id": "e2c4986c-fa8b-598d-aec0-f9094b8078ce",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #8",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "b8a50950-6855-43ba-8c02-410d33f65c2d",
+      "slug": "yosca-maeda-swim-in-still-days",
+      "title": "YOSCA MAEDA — Swim in Still Days",
+      "source": "https://customer-vt0p8j34ppjv1kd4.cloudflarestream.com/7644bdf3848811534df06b97d60107e4/manifest/video.m3u8",
+      "display": {
+        "loop": false,
+        "scaling": "fit",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 61.5,
+      "displayAt": "2026-11-15T00:00:00"
+    }
+  ],
+  "title": "Feral File Daily (temporary recovery)",
+  "created": "2026-09-15T09:59:53.520Z",
+  "summary": "Temporary recovery copy of Feral File Daily. Derived from https://feed.feralfile.com/api/v1/playlists/feral-file-daily-f77fe04c on 2026-09-10. Omits Each and Every Command AP scheduled for September 10 because its oversized text preview exhausts Android WebView memory. All other entries and their schedules are unchanged. Extended on 2026-09-15 with 30 entries for October 17 through November 15, drawn round-robin from the NODE (OCCUPY) and Refik Anadol Studio (Unsupervised — MoMA — Dreams; Machine Hallucinations — Coral; Unsupervised — MoMA — Burned) playlists on the feed, item bodies unchanged.",
+  "curators": [
+    {
+      "key": "did:pkh:eip155:1:0x7D5dA3DAAdf000b9e239e45a106a9F241bDaA8b0",
+      "name": ""
+    }
+  ],
+  "defaults": {
+    "display": {
+      "loop": true,
+      "scaling": "fill",
+      "autoplay": true,
+      "background": "#000000"
+    },
+    "license": "open",
+    "duration": 300
+  },
+  "dpVersion": "1.1.0",
+  "coverImage": "https://imagedelivery.net/iCRs13uicXIPOWrnuHbaKA/828f2aa7-7edd-4961-f5c7-0fbac8a9ec00/raw",
+  "signatures": [
+    {
+      "ts": "2026-09-15T10:00:04.252Z",
+      "alg": "eip191",
+      "kid": "did:pkh:eip155:1:0x7D5dA3DAAdf000b9e239e45a106a9F241bDaA8b0",
+      "sig": "dVMBSEVuUaqOh1ouuktW1iTTYRw0t0HhvT2DYLK-FF1eO4hQWxpibgPBIlLVmrga8INibOBGw3T8_ulkHyC0_Bs",
+      "role": "curator",
+      "payload_hash": "sha256:f45ffc551dfc1b7d16f221651962ee6db6b9ebea647641c5f22ef0a8a701fedb"
+    },
+    {
+      "ts": "2026-09-15T09:59:53Z",
+      "alg": "ed25519",
+      "kid": "did:key:z6MkiCBAPqLbkzZmLG2nAyfzJqfiEr58NDscj2ar4FJ1pP3U",
+      "sig": "uR3n4sgdQUJ9anPMtwUIhXGQzTXZvnnRZF6FNFZ0TEzLkB-wn9LZ83fz2IZvXWelE4xi24A7hkDFvx6Z9KF7Bg",
+      "role": "feed",
+      "payload_hash": "sha256:f45ffc551dfc1b7d16f221651962ee6db6b9ebea647641c5f22ef0a8a701fedb"
+    }
+  ]
+}
