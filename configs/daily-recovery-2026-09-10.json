@@ -1,4 +1,6 @@
 {
+  "id": "60647c56-db21-4d14-9496-088e2ae3b48a",
+  "slug": "feral-file-daily-temporary-recovery-60647c56",
   "items": [
     {
       "id": "84da82f2-9a31-4cad-993c-90c8f1c4a0ae",
@@ -1291,9 +1293,702 @@
           "standard": "erc721"
         }
       }
+    },
+    {
+      "id": "2b277a75-cecf-4095-b727-af81e694923e",
+      "slug": "ripe-to-be-a-machine-display-1",
+      "title": "RIPE — To Be a Machine — Display 1",
+      "source": "https://tbam.ripe.wtf/display/node-1",
+      "display": {
+        "scaling": "fit",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-17T00:00:00"
+    },
+    {
+      "id": "e4579f0e-307d-412a-94d3-eed41b25218c",
+      "slug": "unsupervised-moma-dreams-a",
+      "title": "Unsupervised — MoMA — Dreams — A",
+      "source": "https://ipfs.feralfile.com/ipfs/QmPWHe6vEYDcJWYSGZCy6wwpMf3Wi61uWgFE2oSuy5s5KP",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-18T00:00:00",
+      "inlineManifest": {
+        "id": "4fd5cc63-b797-543d-a48f-ab4e4bd15cbf",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Dreams — A",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "69319358-3833-4ad1-84ca-eb518891e76a",
+      "slug": "machine-hallucinations-coral-generative-ai-data-painting-a",
+      "title": "Machine Hallucinations — Coral — Generative AI Data Painting — A",
+      "source": "https://ipfs.feralfile.com/ipfs/bafybeigknz2wrdlyg64wfunrgieflllkm4nf63iiiae76wvfzhq672je74",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-19T00:00:00",
+      "inlineManifest": {
+        "id": "4e3a34be-99ed-59d6-baae-08d561cf51ca",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Machine Hallucinations — Coral — Generative AI Data Painting — A",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "97078a9e-5139-4751-a82d-96dfe30ba969",
+      "slug": "unsupervised-moma-burned-moma-dreams-1",
+      "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #1",
+      "source": "https://ipfs.feralfile.com/ipfs/QmfJmrnaWHMks3tDfrydvaHjZBsbSBdgy93ftfJHXSfdPW",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-20T00:00:00",
+      "inlineManifest": {
+        "id": "49226d44-2d5c-5092-9332-64059cebc6df",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #1",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "2ef105a2-006e-4315-8e88-dfea84e35301",
+      "slug": "ripe-to-be-a-machine-display-2",
+      "title": "RIPE — To Be a Machine — Display 2",
+      "source": "https://tbam.ripe.wtf/display/node-2",
+      "display": {
+        "scaling": "fit",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-21T00:00:00"
+    },
+    {
+      "id": "a1f8cd2d-388d-4f48-b385-250dc9dd1097",
+      "slug": "unsupervised-moma-dreams-b",
+      "title": "Unsupervised — MoMA — Dreams — B",
+      "source": "https://ipfs.feralfile.com/ipfs/QmSGS5m3tNu1FBK4w7PehnfGkcKmNYRoAg3iLAwz7yiv9x",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-22T00:00:00",
+      "inlineManifest": {
+        "id": "51953940-ebf9-57f4-952a-ec6e59c4b937",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Dreams — B",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "98d180f3-60f5-46a2-b168-fd7cd4b5fadc",
+      "slug": "machine-hallucinations-coral-generative-ai-data-painting-b",
+      "title": "Machine Hallucinations — Coral — Generative AI Data Painting — B",
+      "source": "https://ipfs.feralfile.com/ipfs/bafybeifpgs2swnnnlrwpdp7eplslu5omud46cv7pbqdsxhxxcdhgc5xibm",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-23T00:00:00",
+      "inlineManifest": {
+        "id": "1d1001b7-7faa-5bc2-befc-05e08aadb2f2",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Machine Hallucinations — Coral — Generative AI Data Painting — B",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "b5f4f311-c8e6-4a04-84b5-5caecc6b6472",
+      "slug": "unsupervised-moma-burned-moma-dreams-2",
+      "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #2",
+      "source": "https://ipfs.feralfile.com/ipfs/Qme21hLhjMPm5BUVYpDMKrVxrp57SGWmaQ5yH4SGorNFm6",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-24T00:00:00",
+      "inlineManifest": {
+        "id": "daab6650-de89-59a0-aa4f-02651b90e6d4",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #2",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "da32036d-0f50-4de2-927a-13e8fce32911",
+      "slug": "ripe-to-be-a-machine-display-3",
+      "title": "RIPE — To Be a Machine — Display 3",
+      "source": "https://tbam.ripe.wtf/display/node-3",
+      "display": {
+        "scaling": "fit",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-25T00:00:00"
+    },
+    {
+      "id": "fc9a26ac-ee40-48d4-b896-d23668b6e368",
+      "slug": "unsupervised-moma-dreams-c",
+      "title": "Unsupervised — MoMA — Dreams — C",
+      "source": "https://ipfs.feralfile.com/ipfs/QmdmL6Axtg4HGpRinkzYWKXW3QMFiuHZnrkeGmh7WoaZ8D",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-26T00:00:00",
+      "inlineManifest": {
+        "id": "7df61b32-cb22-5d16-9118-089981bff379",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Dreams — C",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "2351ef55-1751-4ca6-afef-6adf027c8f17",
+      "slug": "machine-hallucinations-coral-generative-ai-data-painting-c",
+      "title": "Machine Hallucinations — Coral — Generative AI Data Painting — C",
+      "source": "https://ipfs.feralfile.com/ipfs/bafybeig5pvia7vloiltcvatqdvvybqjx56433dwrriw7ktb5rngsxoz2oa",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-27T00:00:00",
+      "inlineManifest": {
+        "id": "51cbcea6-aa6a-5768-a012-9dd9ff87d5d0",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Machine Hallucinations — Coral — Generative AI Data Painting — C",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "2f3f5699-3351-44e8-a8e1-b078362f6187",
+      "slug": "unsupervised-moma-burned-moma-dreams-3",
+      "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #3",
+      "source": "https://ipfs.feralfile.com/ipfs/QmcLXBKeMPrkmPxW6kVsstHCkyKdtGoTP9HrDJqAuTyYGJ",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-28T00:00:00",
+      "inlineManifest": {
+        "id": "799cb10e-ec80-5207-9013-036f7db5035d",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #3",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "a9c2cca8-9d90-48fb-a832-a2219106b2bf",
+      "slug": "ripe-to-be-a-machine-display-4",
+      "title": "RIPE — To Be a Machine — Display 4",
+      "source": "https://tbam.ripe.wtf/display/node-4",
+      "display": {
+        "scaling": "fit",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-29T00:00:00"
+    },
+    {
+      "id": "bdb49ea7-f57b-4f5e-b8a5-dd511e0297fc",
+      "slug": "unsupervised-moma-dreams-d",
+      "title": "Unsupervised — MoMA — Dreams — D",
+      "source": "https://ipfs.feralfile.com/ipfs/QmasTEjPyFjAf2M3pQjRxxHKikrbqC2RFp4TSj9n2zqYWG",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-30T00:00:00",
+      "inlineManifest": {
+        "id": "dfcf6b6a-6a2f-5d53-9472-0bb490916c8a",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Dreams — D",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "26ba3a6e-6c44-4cc1-96fb-398d9e5c15a2",
+      "slug": "machine-hallucinations-coral-generative-ai-data-painting-d",
+      "title": "Machine Hallucinations — Coral — Generative AI Data Painting — D",
+      "source": "https://ipfs.feralfile.com/ipfs/bafybeifgolfnh7kglevbk4ugti6tecidd6d6icolpx52mkrgbkwwygousy",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-10-31T00:00:00",
+      "inlineManifest": {
+        "id": "4e3ebb28-32e6-57c3-898c-07a682de9cb8",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Machine Hallucinations — Coral — Generative AI Data Painting — D",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "965bc960-c16c-4d3c-b1b0-a4ae187b8e36",
+      "slug": "unsupervised-moma-burned-moma-dreams-4",
+      "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #4",
+      "source": "https://ipfs.feralfile.com/ipfs/QmSCfrsvQVnXLRVYT6HH5Ztdz97QguEKrXVCvHPexyzFZR",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-11-01T00:00:00",
+      "inlineManifest": {
+        "id": "a9b83cfe-afe4-5778-a07a-e3d05209500c",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #4",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "477e90b3-ab03-4efe-87d5-0856752e76c5",
+      "slug": "andreas-rau-inventory-numbers",
+      "title": "ANDREAS RAU — Inventory Numbers",
+      "source": "https://andreasrau.eu/inventory-numbers/node/",
+      "display": {
+        "scaling": "fit",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-11-02T00:00:00"
+    },
+    {
+      "id": "e4fe9b96-ee39-4a3b-911e-169f094dbe9e",
+      "slug": "unsupervised-moma-dreams-e",
+      "title": "Unsupervised — MoMA — Dreams — E",
+      "source": "https://ipfs.feralfile.com/ipfs/QmcW5usKfrEDfRED5piU5piQZHt3Zps3LfJbvvEXC13fjd",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-11-03T00:00:00",
+      "inlineManifest": {
+        "id": "6dd5f30e-52cf-50fd-97a4-7e1ffe6aefc3",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Dreams — E",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "57cadfec-a252-4f50-904d-f38374c50c8d",
+      "slug": "machine-hallucinations-coral-generative-ai-data-painting-e",
+      "title": "Machine Hallucinations — Coral — Generative AI Data Painting — E",
+      "source": "https://ipfs.feralfile.com/ipfs/bafybeiatoahoq34ap6o3uuvo6xm5rgxx6poq224cwiagyddgrjfrvg3bqa",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-11-04T00:00:00",
+      "inlineManifest": {
+        "id": "f61df8d4-e19b-5bb1-903a-09b6aac35750",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Machine Hallucinations — Coral — Generative AI Data Painting — E",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "dc7595cb-1116-47a8-9438-e80216077d0a",
+      "slug": "unsupervised-moma-burned-moma-dreams-5",
+      "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #5",
+      "source": "https://ipfs.feralfile.com/ipfs/Qme7ufT1rugRTr9Bu7imCkiDgsey1a4gdJXTEupL9WcQ34",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-11-05T00:00:00",
+      "inlineManifest": {
+        "id": "f8e062eb-a54a-5d14-a5ea-44c1c67556de",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #5",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "a67626f2-2dbb-4cf9-a344-3c996c8ae5cb",
+      "slug": "1-crush-dust",
+      "title": "#1 CRUSH — dust",
+      "source": "https://customer-vt0p8j34ppjv1kd4.cloudflarestream.com/3b8443535e9d3f1370609471a715b263/manifest/video.m3u8",
+      "display": {
+        "scaling": "fit",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 60,
+      "displayAt": "2026-11-06T00:00:00"
+    },
+    {
+      "id": "1da00712-7683-47b0-955c-a777aead26b0",
+      "slug": "unsupervised-moma-dreams-f",
+      "title": "Unsupervised — MoMA — Dreams — F",
+      "source": "https://ipfs.feralfile.com/ipfs/QmPSdtH3rDAaFhf38K19kTfCktwcNK9SxcALgvQEZ1WwL7",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-11-07T00:00:00",
+      "inlineManifest": {
+        "id": "b50952b3-a5b4-54dc-b557-15a542b025ba",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Dreams — F",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "65d2258e-7c65-4836-b9c9-4eb998937ac1",
+      "slug": "unsupervised-moma-burned-moma-dreams-6",
+      "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #6",
+      "source": "https://ipfs.feralfile.com/ipfs/QmUDZSeFDhynX77BhLSxCJeBUhRTrpeJfpBN7h2u6hzQid",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-11-08T00:00:00",
+      "inlineManifest": {
+        "id": "02732a52-4425-5bc4-b511-c60e85be9e83",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #6",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "bd8fa0f7-a262-48ba-b620-9c1ca3de4cfc",
+      "slug": "1-crush-ctrl-alt-death",
+      "title": "#1 CRUSH — ctrl+alt+death",
+      "source": "https://customer-vt0p8j34ppjv1kd4.cloudflarestream.com/9ed216cd9d5f05f71a33178835f86d09/manifest/video.m3u8",
+      "display": {
+        "scaling": "fit",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 60,
+      "displayAt": "2026-11-09T00:00:00"
+    },
+    {
+      "id": "b7bcca93-684d-4c13-a2dd-ecdeb6254d76",
+      "slug": "unsupervised-moma-dreams-g",
+      "title": "Unsupervised — MoMA — Dreams — G",
+      "source": "https://ipfs.feralfile.com/ipfs/QmRqC28zHV8k3WiRyA9VBvRSM5neCyPytPVHfK2p5ARmFy",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-11-10T00:00:00",
+      "inlineManifest": {
+        "id": "a6a58c5f-ef70-59aa-8839-156555b8c488",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Dreams — G",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "2e51601d-eb61-4abf-8300-fbc8c6f51e9d",
+      "slug": "unsupervised-moma-burned-moma-dreams-7",
+      "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #7",
+      "source": "https://ipfs.feralfile.com/ipfs/QmPRio1sxdWHN7p1Kc9ENvVmcMV6BKZvzkYhtTmJN1ZoPD",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-11-11T00:00:00",
+      "inlineManifest": {
+        "id": "ba361463-cee5-54b6-afb8-ff4e6a30c657",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #7",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "79bb787f-2d96-4f6a-8410-7e7f49df395b",
+      "slug": "1-crush-come-and-see",
+      "title": "#1 CRUSH — come and see",
+      "source": "https://customer-vt0p8j34ppjv1kd4.cloudflarestream.com/b9f8f46133c8a2a4a0102a23f6d00aec/manifest/video.m3u8",
+      "display": {
+        "scaling": "fit",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 60,
+      "displayAt": "2026-11-12T00:00:00"
+    },
+    {
+      "id": "288c7b95-e124-4fac-b5dc-226910572696",
+      "slug": "unsupervised-moma-dreams-h",
+      "title": "Unsupervised — MoMA — Dreams — H",
+      "source": "https://ipfs.feralfile.com/ipfs/QmcPiuicCm8jrwrXDP4SL8cEXcDiDPg3xRHAYbDBCbVY3U",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-11-13T00:00:00",
+      "inlineManifest": {
+        "id": "44040069-89f6-51b2-be39-58f262bdcc1a",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Dreams — H",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "c3fa3ad7-76f6-4d43-afd2-8b0305b3a4e5",
+      "slug": "unsupervised-moma-burned-moma-dreams-8",
+      "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #8",
+      "source": "https://ipfs.feralfile.com/ipfs/QmTrMCvj4v6FCeH4PAgxxHbLHfza5PxqvXecnX7XmQmGKF",
+      "display": {
+        "scaling": "fill",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 300,
+      "displayAt": "2026-11-14T00:00:00",
+      "inlineManifest": {
+        "id": "e2c4986c-fa8b-598d-aec0-f9094b8078ce",
+        "locale": "en",
+        "created": "2026-09-11T20:54:45Z",
+        "metadata": {
+          "title": "Unsupervised — MoMA — Burned — MoMA Dreams — #8",
+          "artists": [
+            {
+              "name": "Refik Anadol"
+            }
+          ]
+        },
+        "refVersion": "1.1.0"
+      }
+    },
+    {
+      "id": "b8a50950-6855-43ba-8c02-410d33f65c2d",
+      "slug": "yosca-maeda-swim-in-still-days",
+      "title": "YOSCA MAEDA — Swim in Still Days",
+      "source": "https://customer-vt0p8j34ppjv1kd4.cloudflarestream.com/7644bdf3848811534df06b97d60107e4/manifest/video.m3u8",
+      "display": {
+        "loop": false,
+        "scaling": "fit",
+        "background": "#000000"
+      },
+      "license": "open",
+      "duration": 61.5,
+      "displayAt": "2026-11-15T00:00:00"
     }
   ],
   "title": "Feral File Daily (temporary recovery)",
+  "created": "2026-09-15T09:59:53.520Z",
+  "summary": "Temporary recovery copy of Feral File Daily. Derived from https://feed.feralfile.com/api/v1/playlists/feral-file-daily-f77fe04c on 2026-09-10. Omits Each and Every Command AP scheduled for September 10 because its oversized text preview exhausts Android WebView memory. All other entries and their schedules are unchanged. Extended on 2026-09-15 with 30 entries for October 17 through November 15, drawn round-robin from the NODE (OCCUPY) and Refik Anadol Studio (Unsupervised — MoMA — Dreams; Machine Hallucinations — Coral; Unsupervised — MoMA — Burned) playlists on the feed, item bodies unchanged.",
+  "curators": [
+    {
+      "key": "did:pkh:eip155:1:0x7D5dA3DAAdf000b9e239e45a106a9F241bDaA8b0",
+      "name": ""
+    }
+  ],
   "defaults": {
     "display": {
       "loop": true,
@@ -1306,24 +2001,22 @@
   },
   "dpVersion": "1.1.0",
   "coverImage": "https://imagedelivery.net/iCRs13uicXIPOWrnuHbaKA/828f2aa7-7edd-4961-f5c7-0fbac8a9ec00/raw",
-  "id": "6b11dfbc-b074-4129-94d6-5e392de4e2e6",
-  "slug": "daily-recovery-2026-09-10-6b11dfbc",
-  "created": "2026-09-10T21:20:26.426Z",
-  "curators": [
-    {
-      "key": "did:key:z6MkoX8i2dynyvLh4hUHZt8b42q9uAwwCWxM4NSX4YDfMtaC",
-      "name": "Sean"
-    }
-  ],
-  "summary": "Temporary recovery copy of Feral File Daily. Derived from https://feed.feralfile.com/api/v1/playlists/feral-file-daily-f77fe04c on 2026-09-10. Omits Each and Every Command AP scheduled for September 10 because its oversized text preview exhausts Android WebView memory. All other entries and their schedules are unchanged.",
   "signatures": [
     {
-      "alg": "ed25519",
-      "kid": "did:key:z6MkoX8i2dynyvLh4hUHZt8b42q9uAwwCWxM4NSX4YDfMtaC",
-      "ts": "2026-09-12T04:40:02Z",
-      "payload_hash": "sha256:442d141ab97a5fe2597acb889dc7f25b9c3e194a7891b908917df49b2870ee39",
+      "ts": "2026-09-15T10:00:04.252Z",
+      "alg": "eip191",
+      "kid": "did:pkh:eip155:1:0x7D5dA3DAAdf000b9e239e45a106a9F241bDaA8b0",
+      "sig": "dVMBSEVuUaqOh1ouuktW1iTTYRw0t0HhvT2DYLK-FF1eO4hQWxpibgPBIlLVmrga8INibOBGw3T8_ulkHyC0_Bs",
       "role": "curator",
-      "sig": "F6QJiZpvdsVQ_b3xLaf8O35eVA_gicAP6jmKDO1Z_E4ayNq7nyPCyxIpqtyx1ri-R6IwUAhTVx-U6XjPJz2BDw"
+      "payload_hash": "sha256:f45ffc551dfc1b7d16f221651962ee6db6b9ebea647641c5f22ef0a8a701fedb"
+    },
+    {
+      "ts": "2026-09-15T09:59:53Z",
+      "alg": "ed25519",
+      "kid": "did:key:z6MkiCBAPqLbkzZmLG2nAyfzJqfiEr58NDscj2ar4FJ1pP3U",
+      "sig": "uR3n4sgdQUJ9anPMtwUIhXGQzTXZvnnRZF6FNFZ0TEzLkB-wn9LZ83fz2IZvXWelE4xi24A7hkDFvx6Z9KF7Bg",
+      "role": "feed",
+      "payload_hash": "sha256:f45ffc551dfc1b7d16f221651962ee6db6b9ebea647641c5f22ef0a8a701fedb"
     }
   ]
 }
