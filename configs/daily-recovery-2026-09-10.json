@@ -1,6 +1,6 @@
 {
-  "id": "60647c56-db21-4d14-9496-088e2ae3b48a",
-  "slug": "feral-file-daily-temporary-recovery-60647c56",
+  "id": "7f3c0f4e-84d3-4206-ac36-fe073e11fbb9",
+  "slug": "feral-file-daily-temporary-recovery-7f3c0f4e",
   "items": [
     {
       "id": "84da82f2-9a31-4cad-993c-90c8f1c4a0ae",
@@ -1985,7 +1985,7 @@
   "summary": "Temporary recovery copy of Feral File Daily. Derived from https://feed.feralfile.com/api/v1/playlists/feral-file-daily-f77fe04c on 2026-09-10. Omits Each and Every Command AP scheduled for September 10 because its oversized text preview exhausts Android WebView memory. All other entries and their schedules are unchanged. Extended on 2026-09-15 with 30 entries for October 17 through November 15, drawn round-robin from the NODE (OCCUPY) and Refik Anadol Studio (Unsupervised — MoMA — Dreams; Machine Hallucinations — Coral; Unsupervised — MoMA — Burned) playlists on the feed, item bodies unchanged.",
   "curators": [
     {
-      "key": "did:pkh:eip155:1:0x7D5dA3DAAdf000b9e239e45a106a9F241bDaA8b0",
+      "key": "did:pkh:eip155:1:0xE02BDdd66c0dbFc132e95620089a02cEddAaF2cf",
       "name": ""
     }
   ],
@@ -2003,20 +2003,20 @@
   "coverImage": "https://imagedelivery.net/iCRs13uicXIPOWrnuHbaKA/828f2aa7-7edd-4961-f5c7-0fbac8a9ec00/raw",
   "signatures": [
     {
-      "ts": "2026-09-15T10:00:04.252Z",
+      "ts": "2026-09-24T10:07:58.869Z",
       "alg": "eip191",
-      "kid": "did:pkh:eip155:1:0x7D5dA3DAAdf000b9e239e45a106a9F241bDaA8b0",
-      "sig": "dVMBSEVuUaqOh1ouuktW1iTTYRw0t0HhvT2DYLK-FF1eO4hQWxpibgPBIlLVmrga8INibOBGw3T8_ulkHyC0_Bs",
+      "kid": "did:pkh:eip155:1:0xE02BDdd66c0dbFc132e95620089a02cEddAaF2cf",
+      "sig": "fjj9veLrf4ikQPdWIaO_egL4VACw29Ng9VQgBReXFaU4gk4D7MXYsfaBx8ZMkB1WEx9SucSq4on-AN_kXFaiwRs",
       "role": "curator",
-      "payload_hash": "sha256:f45ffc551dfc1b7d16f221651962ee6db6b9ebea647641c5f22ef0a8a701fedb"
+      "payload_hash": "sha256:97e07b99322dbcfc780281a3b082514de5f1d227d027cd0d0b7102c1ccad82f8"
     },
     {
       "ts": "2026-09-15T09:59:53Z",
       "alg": "ed25519",
       "kid": "did:key:z6MkiCBAPqLbkzZmLG2nAyfzJqfiEr58NDscj2ar4FJ1pP3U",
-      "sig": "uR3n4sgdQUJ9anPMtwUIhXGQzTXZvnnRZF6FNFZ0TEzLkB-wn9LZ83fz2IZvXWelE4xi24A7hkDFvx6Z9KF7Bg",
+      "sig": "9aTwxTRfHfhD4vWjBVHF0KwDEf6MnhmtzVqrKIJBoYeZzyMGvU_Wbhq39NRjH9rKFvK7oIz5Iethuc1qvE-BDw",
       "role": "feed",
-      "payload_hash": "sha256:f45ffc551dfc1b7d16f221651962ee6db6b9ebea647641c5f22ef0a8a701fedb"
+      "payload_hash": "sha256:97e07b99322dbcfc780281a3b082514de5f1d227d027cd0d0b7102c1ccad82f8"
     }
   ]
 }
